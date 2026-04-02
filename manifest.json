@@ -1,0 +1,13 @@
+{
+  "name": "Pencil to Figma",
+  "id": "pencil-to-figma",
+  "api": "1.0.0",
+  "main": "dist/main.js",
+  "ui": "dist/ui.html",
+  "editorType": ["figma"],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": ["*"],
+    "reasoning": "Fetches images referenced inside .pen design files. Image URLs may point to any domain (pencil.dev CDN, user-hosted assets, or external URLs embedded in designs)."
+  }
+}

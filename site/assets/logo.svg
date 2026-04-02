@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <!-- Pencil P badge -->
+  <rect x="1" y="1" width="20" height="20" rx="5" fill="#7c3aed"/>
+  <text x="11" y="15.5" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="white" text-anchor="middle">P</text>
+  <!-- Arrow -->
+  <path d="M24 12 L28 12 M26 10 L28 12 L26 14" stroke="#a0a0a0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Figma F badge -->
+  <rect x="27" y="1" width="20" height="20" rx="5" fill="#1e1e1e" stroke="#333" stroke-width="1"/>
+  <text x="37" y="15.5" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="white" text-anchor="middle">F</text>
+</svg>
