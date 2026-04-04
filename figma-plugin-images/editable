@@ -1,0 +1,5176 @@
+{
+  "version": "2.10",
+  "children": [
+    {
+      "type": "frame",
+      "id": "9ifZu",
+      "x": 0,
+      "y": 0,
+      "name": "Plugin Icon 128x128",
+      "width": 128,
+      "height": 128,
+      "fill": "#FFFFFF",
+      "cornerRadius": 24,
+      "layout": "none",
+      "children": [
+        {
+          "type": "rectangle",
+          "cornerRadius": 14,
+          "id": "SivlH",
+          "x": 6.376264927546723,
+          "y": 18.04531835705103,
+          "name": "leftShape",
+          "rotation": 12.000000000000002,
+          "fill": {
+            "type": "gradient",
+            "gradientType": "linear",
+            "enabled": true,
+            "opacity": 0.5,
+            "rotation": 135,
+            "size": {
+              "height": 1
+            },
+            "colors": [
+              {
+                "color": "#FFA600",
+                "position": 0
+              },
+              {
+                "color": "#FFD900",
+                "position": 1
+              }
+            ]
+          },
+          "width": 51,
+          "height": 51
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 14,
+          "id": "7bEd6",
+          "x": 73.68030884608314,
+          "y": 50.00000000000001,
+          "name": "rightShape",
+          "rotation": -8,
+          "fill": {
+            "type": "gradient",
+            "gradientType": "linear",
+            "enabled": true,
+            "opacity": 0.5,
+            "rotation": 135,
+            "size": {
+              "height": 1
+            },
+            "colors": [
+              {
+                "color": "#7B61FF",
+                "position": 0
+              },
+              {
+                "color": "#4ECDC4",
+                "position": 1
+              }
+            ]
+          },
+          "width": 51,
+          "height": 51
+        },
+        {
+          "type": "path",
+          "id": "6gKk7",
+          "x": 37,
+          "y": 51,
+          "name": "arrow",
+          "geometry": "M0 12l28 0m-8-8l8 8-8 8",
+          "fill": "#00000000",
+          "width": 40,
+          "height": 24,
+          "stroke": {
+            "align": "center",
+            "thickness": 3.5,
+            "join": "round",
+            "cap": "round",
+            "fill": "#141414"
+          }
+        },
+        {
+          "type": "group",
+          "id": "JSgEY",
+          "x": 24,
+          "y": 23.595021273879638,
+          "rotation": 10.284766511138889,
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "aofsH",
+              "x": 0,
+              "y": 0,
+              "fill": {
+                "type": "gradient",
+                "gradientType": "linear",
+                "enabled": true,
+                "rotation": 0,
+                "size": {
+                  "height": 1
+                },
+                "colors": [
+                  {
+                    "color": "#e9a306",
+                    "position": 0.01
+                  },
+                  {
+                    "color": "#e9c206",
+                    "position": 1
+                  }
+                ]
+              },
+              "width": 20.13559322033898,
+              "height": 20.327360774818388
+            },
+            {
+              "type": "path",
+              "id": "495Aq",
+              "x": 20.135593220338997,
+              "y": 33.94285714285712,
+              "name": "ptri1",
+              "opacity": 0.9,
+              "rotation": -180,
+              "geometry": "M0 150l75-150 75 150z",
+              "fill": {
+                "type": "gradient",
+                "gradientType": "linear",
+                "enabled": true,
+                "rotation": 180,
+                "size": {
+                  "height": 1
+                },
+                "colors": [
+                  {
+                    "color": "#fcfbfa",
+                    "position": 0.59
+                  },
+                  {
+                    "color": "#f5f5f5",
+                    "position": 1
+                  }
+                ]
+              },
+              "width": 20.13559322033898,
+              "height": 13.61549636803873
+            },
+            {
+              "type": "path",
+              "id": "WDgUP",
+              "x": 14.95786924939469,
+              "y": 33.94285714285711,
+              "name": "ptri1",
+              "opacity": 0.9,
+              "rotation": -180,
+              "geometry": "M0 150l75-150 75 150z",
+              "fill": "#080808ff",
+              "width": 9.97191283292978,
+              "height": 6.711864406779656
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "dIwZO",
+          "x": 80,
+          "y": 64,
+          "name": "figmaGroup",
+          "width": "fill_container(33)",
+          "height": 47,
+          "layout": "none",
+          "children": [
+            {
+              "type": "group",
+              "id": "MsmrE",
+              "x": 8.730507513271107,
+              "y": -2.577266734133005,
+              "rotation": -8.311545998992532,
+              "children": [
+                {
+                  "type": "rectangle",
+                  "cornerRadius": [
+                    24,
+                    4,
+                    4,
+                    24
+                  ],
+                  "id": "FMsQE",
+                  "x": 0,
+                  "y": 0,
+                  "name": "ftl",
+                  "fill": "#F24E1EFF",
+                  "width": 10.632124352331608,
+                  "height": 10.632124352331607
+                },
+                {
+                  "type": "rectangle",
+                  "cornerRadius": [
+                    4,
+                    24,
+                    24,
+                    4
+                  ],
+                  "id": "4VT1M",
+                  "x": 10.66282588699579,
+                  "y": 0.03627653189874991,
+                  "name": "ftr",
+                  "fill": "#FF7262FF",
+                  "width": 10.632124352331608,
+                  "height": 10.632124352331607
+                },
+                {
+                  "type": "ellipse",
+                  "id": "iBcTd",
+                  "x": 10.662825886995776,
+                  "y": 12.067364614800304,
+                  "name": "fmr",
+                  "fill": "#1ABCFEFF",
+                  "width": 10.632124352331608,
+                  "height": 10.632124352331607
+                },
+                {
+                  "type": "rectangle",
+                  "cornerRadius": [
+                    24,
+                    4,
+                    4,
+                    24
+                  ],
+                  "id": "hBE05",
+                  "x": 0,
+                  "y": 12.031088082901562,
+                  "name": "fml",
+                  "fill": "#A259FFFF",
+                  "width": 10.632124352331608,
+                  "height": 10.632124352331607
+                },
+                {
+                  "type": "ellipse",
+                  "id": "8uvSG",
+                  "x": 0,
+                  "y": 24.06217616580311,
+                  "name": "fbl",
+                  "fill": "#0ACF83FF",
+                  "width": 10.632124352331608,
+                  "height": 10.632124352331607
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "sz0iT",
+      "x": 300,
+      "y": 0,
+      "name": "Plugin Thumbnail 1920x1080",
+      "width": 1920,
+      "height": 1080,
+      "fill": {
+        "type": "gradient",
+        "gradientType": "radial",
+        "enabled": true,
+        "rotation": 0,
+        "size": {
+          "width": 1.2,
+          "height": 1.2
+        },
+        "colors": [
+          {
+            "color": "#1A1A2EFF",
+            "position": 0
+          },
+          {
+            "color": "#0A0A0AFF",
+            "position": 1
+          }
+        ],
+        "center": {
+          "y": 0.45
+        }
+      },
+      "layout": "vertical",
+      "gap": 48,
+      "justifyContent": "center",
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "frame",
+          "id": "UpsBy",
+          "name": "logosRow",
+          "gap": 80,
+          "justifyContent": "center",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "7qAer",
+              "name": "pencilLogoGroup",
+              "width": 150,
+              "height": 150,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "path",
+                  "id": "n5pDx",
+                  "x": 0,
+                  "y": 0,
+                  "name": "ptri1",
+                  "opacity": 0.9,
+                  "geometry": "M0 150l75-150 75 150z",
+                  "fill": {
+                    "type": "gradient",
+                    "gradientType": "linear",
+                    "enabled": true,
+                    "rotation": 180,
+                    "size": {
+                      "height": 1
+                    },
+                    "colors": [
+                      {
+                        "color": "#FFA600FF",
+                        "position": 0
+                      },
+                      {
+                        "color": "#FFD900FF",
+                        "position": 1
+                      }
+                    ]
+                  },
+                  "width": 150,
+                  "height": 150
+                },
+                {
+                  "type": "path",
+                  "id": "RKik0",
+                  "x": 0,
+                  "y": 0,
+                  "name": "ptri2",
+                  "opacity": 0.6,
+                  "geometry": "M30 150l45-100 45 100z",
+                  "fill": {
+                    "type": "gradient",
+                    "gradientType": "linear",
+                    "enabled": true,
+                    "rotation": 180,
+                    "size": {
+                      "height": 1
+                    },
+                    "colors": [
+                      {
+                        "color": "#CCCCCCFF",
+                        "position": 0
+                      },
+                      {
+                        "color": "#FFFFFFFF",
+                        "position": 1
+                      }
+                    ]
+                  },
+                  "width": 150,
+                  "height": 150
+                },
+                {
+                  "type": "rectangle",
+                  "id": "oWOj6",
+                  "x": 35,
+                  "y": 120,
+                  "name": "pbase",
+                  "fill": {
+                    "type": "gradient",
+                    "gradientType": "linear",
+                    "enabled": true,
+                    "rotation": 0,
+                    "size": {
+                      "height": 1
+                    },
+                    "colors": [
+                      {
+                        "color": "#2A2A2AFF",
+                        "position": 0
+                      },
+                      {
+                        "color": "#4A4A4AFF",
+                        "position": 1
+                      }
+                    ]
+                  },
+                  "width": 80,
+                  "height": 30,
+                  "stroke": {
+                    "align": "outside",
+                    "thickness": 1,
+                    "fill": "#555555FF"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "TuBHQ",
+              "name": "arrowFrame",
+              "gap": 12,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "rectangle",
+                  "cornerRadius": 2,
+                  "id": "nppHn",
+                  "name": "arrowLine",
+                  "fill": {
+                    "type": "gradient",
+                    "gradientType": "linear",
+                    "enabled": true,
+                    "rotation": 0,
+                    "size": {
+                      "height": 1
+                    },
+                    "colors": [
+                      {
+                        "color": "#FFFFFF10",
+                        "position": 0
+                      },
+                      {
+                        "color": "#FFFFFF40",
+                        "position": 0.5
+                      },
+                      {
+                        "color": "#FFFFFF10",
+                        "position": 1
+                      }
+                    ]
+                  },
+                  "width": 100,
+                  "height": 2
+                },
+                {
+                  "type": "path",
+                  "id": "1bprN",
+                  "name": "arrowHead",
+                  "geometry": "M0 0l20 15-20 15z",
+                  "fill": "#FFFFFF40",
+                  "width": 20,
+                  "height": 30
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "rLXBc",
+              "name": "figmaGroup",
+              "width": 108,
+              "height": 156,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "rectangle",
+                  "cornerRadius": [
+                    24,
+                    4,
+                    4,
+                    24
+                  ],
+                  "id": "TFZSp",
+                  "x": 0,
+                  "y": 0,
+                  "name": "ftl",
+                  "fill": "#F24E1EFF",
+                  "width": 48,
+                  "height": 48
+                },
+                {
+                  "type": "rectangle",
+                  "cornerRadius": [
+                    4,
+                    24,
+                    24,
+                    4
+                  ],
+                  "id": "CdyVc",
+                  "x": 60,
+                  "y": 0,
+                  "name": "ftr",
+                  "fill": "#FF7262FF",
+                  "width": 48,
+                  "height": 48
+                },
+                {
+                  "type": "rectangle",
+                  "cornerRadius": [
+                    24,
+                    4,
+                    4,
+                    24
+                  ],
+                  "id": "nKnVj",
+                  "x": 0,
+                  "y": 54,
+                  "name": "fml",
+                  "fill": "#A259FFFF",
+                  "width": 48,
+                  "height": 48
+                },
+                {
+                  "type": "ellipse",
+                  "id": "AiTdX",
+                  "x": 60,
+                  "y": 54,
+                  "name": "fmr",
+                  "fill": "#1ABCFEFF",
+                  "width": 48,
+                  "height": 48
+                },
+                {
+                  "type": "ellipse",
+                  "id": "cYa29",
+                  "x": 0,
+                  "y": 108,
+                  "name": "fbl",
+                  "fill": "#0ACF83FF",
+                  "width": 48,
+                  "height": 48
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "KR1Yt",
+          "name": "titleText",
+          "fill": "#FFFFFFFF",
+          "content": "pencil.dev  →  Figma",
+          "fontFamily": "Inter",
+          "fontSize": 52,
+          "fontWeight": "700",
+          "letterSpacing": -0.5
+        },
+        {
+          "type": "text",
+          "id": "ihkMK",
+          "name": "subtitleText",
+          "fill": "#71717AFF",
+          "content": "Import .pen design files directly into Figma",
+          "fontFamily": "Inter",
+          "fontSize": 24
+        },
+        {
+          "type": "ellipse",
+          "id": "XRHSh",
+          "layoutPosition": "absolute",
+          "x": 660,
+          "y": 260,
+          "name": "glowBg",
+          "fill": {
+            "type": "gradient",
+            "gradientType": "radial",
+            "enabled": true,
+            "rotation": 0,
+            "size": {
+              "width": 1,
+              "height": 1
+            },
+            "colors": [
+              {
+                "color": "#A855F712",
+                "position": 0
+              },
+              {
+                "color": "#A855F700",
+                "position": 0.8
+              }
+            ]
+          },
+          "width": 700,
+          "height": 500
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 1,
+          "id": "2dRrQ",
+          "layoutPosition": "absolute",
+          "x": 760,
+          "y": 320,
+          "name": "topAccent",
+          "fill": {
+            "type": "gradient",
+            "gradientType": "linear",
+            "enabled": true,
+            "rotation": 0,
+            "size": {
+              "height": 1
+            },
+            "colors": [
+              {
+                "color": "#FFA60000",
+                "position": 0
+              },
+              {
+                "color": "#FFA600FF",
+                "position": 0.3
+              },
+              {
+                "color": "#A259FFFF",
+                "position": 0.7
+              },
+              {
+                "color": "#A259FF00",
+                "position": 1
+              }
+            ]
+          },
+          "width": 400,
+          "height": 2
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 1,
+          "id": "kWRLh",
+          "layoutPosition": "absolute",
+          "x": 760,
+          "y": 740,
+          "name": "bottomAccent",
+          "fill": {
+            "type": "gradient",
+            "gradientType": "linear",
+            "enabled": true,
+            "rotation": 0,
+            "size": {
+              "height": 1
+            },
+            "colors": [
+              {
+                "color": "#FFA60000",
+                "position": 0
+              },
+              {
+                "color": "#FFA600FF",
+                "position": 0.3
+              },
+              {
+                "color": "#A259FFFF",
+                "position": 0.7
+              },
+              {
+                "color": "#A259FF00",
+                "position": 1
+              }
+            ]
+          },
+          "width": 400,
+          "height": 2
+        },
+        {
+          "type": "text",
+          "id": "xI2FE",
+          "layoutPosition": "absolute",
+          "x": 855,
+          "y": 780,
+          "name": "tagText",
+          "fill": "#A855F7FF",
+          "content": "FIGMA PLUGIN",
+          "fontFamily": "Geist Mono",
+          "fontSize": 13,
+          "fontWeight": "500",
+          "letterSpacing": 4
+        },
+        {
+          "type": "text",
+          "id": "0qmSP",
+          "layoutPosition": "absolute",
+          "x": 740,
+          "y": 315,
+          "name": "plus1",
+          "fill": "#A855F7FF",
+          "content": "+",
+          "fontFamily": "Geist Mono",
+          "fontSize": 18
+        },
+        {
+          "type": "text",
+          "id": "1TnMt",
+          "layoutPosition": "absolute",
+          "x": 1168,
+          "y": 315,
+          "name": "plus2",
+          "fill": "#A855F7FF",
+          "content": "+",
+          "fontFamily": "Geist Mono",
+          "fontSize": 18
+        },
+        {
+          "type": "text",
+          "id": "cAvXQ",
+          "layoutPosition": "absolute",
+          "x": 740,
+          "y": 730,
+          "name": "plus3",
+          "fill": "#A855F7FF",
+          "content": "+",
+          "fontFamily": "Geist Mono",
+          "fontSize": 18
+        },
+        {
+          "type": "text",
+          "id": "tqDIZ",
+          "layoutPosition": "absolute",
+          "x": 1168,
+          "y": 730,
+          "name": "plus4",
+          "fill": "#A855F7FF",
+          "content": "+",
+          "fontFamily": "Geist Mono",
+          "fontSize": 18
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "PAP2M",
+      "x": 2260,
+      "y": 0,
+      "name": "Plugin Thumbnail 1920x1080",
+      "width": 1920,
+      "height": 1080,
+      "fill": {
+        "type": "gradient",
+        "gradientType": "radial",
+        "enabled": true,
+        "rotation": 0,
+        "size": {
+          "width": 1.2,
+          "height": 1.2
+        },
+        "colors": [
+          {
+            "color": "#1A1A2EFF",
+            "position": 0
+          },
+          {
+            "color": "#0A0A0AFF",
+            "position": 1
+          }
+        ],
+        "center": {
+          "y": 0.45
+        }
+      },
+      "layout": "vertical",
+      "gap": 48,
+      "justifyContent": "center",
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "text",
+          "id": "p5aPn",
+          "name": "titleText",
+          "fill": "#FFFFFFFF",
+          "content": "pencil.dev  →  Figma",
+          "fontFamily": "Inter",
+          "fontSize": 52,
+          "fontWeight": "700",
+          "letterSpacing": -0.5
+        },
+        {
+          "type": "text",
+          "id": "BePoa",
+          "name": "subtitleText",
+          "fill": "#71717AFF",
+          "content": "Import .pen design files directly into Figma",
+          "fontFamily": "Inter",
+          "fontSize": 24
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 1,
+          "id": "7HuAz",
+          "layoutPosition": "absolute",
+          "x": 760,
+          "y": 320,
+          "name": "topAccent",
+          "fill": {
+            "type": "gradient",
+            "gradientType": "linear",
+            "enabled": true,
+            "rotation": 0,
+            "size": {
+              "height": 1
+            },
+            "colors": [
+              {
+                "color": "#FFA60000",
+                "position": 0
+              },
+              {
+                "color": "#FFA600FF",
+                "position": 0.3
+              },
+              {
+                "color": "#A259FFFF",
+                "position": 0.7
+              },
+              {
+                "color": "#A259FF00",
+                "position": 1
+              }
+            ]
+          },
+          "width": 400,
+          "height": 2
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 1,
+          "id": "WLaG8",
+          "layoutPosition": "absolute",
+          "x": 760,
+          "y": 740,
+          "name": "bottomAccent",
+          "fill": {
+            "type": "gradient",
+            "gradientType": "linear",
+            "enabled": true,
+            "rotation": 0,
+            "size": {
+              "height": 1
+            },
+            "colors": [
+              {
+                "color": "#FFA60000",
+                "position": 0
+              },
+              {
+                "color": "#FFA600FF",
+                "position": 0.3
+              },
+              {
+                "color": "#A259FFFF",
+                "position": 0.7
+              },
+              {
+                "color": "#A259FF00",
+                "position": 1
+              }
+            ]
+          },
+          "width": 400,
+          "height": 2
+        },
+        {
+          "type": "text",
+          "id": "x9wLQ",
+          "layoutPosition": "absolute",
+          "x": 855,
+          "y": 780,
+          "name": "tagText",
+          "fill": "#A855F7FF",
+          "content": "FIGMA PLUGIN",
+          "fontFamily": "Geist Mono",
+          "fontSize": 13,
+          "fontWeight": "500",
+          "letterSpacing": 4
+        },
+        {
+          "type": "text",
+          "id": "92IMI",
+          "layoutPosition": "absolute",
+          "x": 740,
+          "y": 315,
+          "name": "plus1",
+          "fill": "#A855F7FF",
+          "content": "+",
+          "fontFamily": "Geist Mono",
+          "fontSize": 18
+        },
+        {
+          "type": "text",
+          "id": "Atwk4",
+          "layoutPosition": "absolute",
+          "x": 1168,
+          "y": 315,
+          "name": "plus2",
+          "fill": "#A855F7FF",
+          "content": "+",
+          "fontFamily": "Geist Mono",
+          "fontSize": 18
+        },
+        {
+          "type": "text",
+          "id": "haCnx",
+          "layoutPosition": "absolute",
+          "x": 740,
+          "y": 730,
+          "name": "plus3",
+          "fill": "#A855F7FF",
+          "content": "+",
+          "fontFamily": "Geist Mono",
+          "fontSize": 18
+        },
+        {
+          "type": "text",
+          "id": "v9LDv",
+          "layoutPosition": "absolute",
+          "x": 1168,
+          "y": 730,
+          "name": "plus4",
+          "fill": "#A855F7FF",
+          "content": "+",
+          "fontFamily": "Geist Mono",
+          "fontSize": 18
+        },
+        {
+          "type": "rectangle",
+          "id": "aYvYx",
+          "fill": "#CCCCCC",
+          "width": 169,
+          "height": 24
+        },
+        {
+          "type": "frame",
+          "id": "y5iqp",
+          "name": "figmaGroup",
+          "width": 108,
+          "height": 156,
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "cornerRadius": [
+                24,
+                4,
+                4,
+                24
+              ],
+              "id": "z3tsR",
+              "x": 0,
+              "y": 0,
+              "name": "ftl",
+              "fill": "#F24E1EFF",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "type": "rectangle",
+              "cornerRadius": [
+                4,
+                24,
+                24,
+                4
+              ],
+              "id": "4GEWi",
+              "x": 60,
+              "y": 0,
+              "name": "ftr",
+              "fill": "#FF7262FF",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "type": "rectangle",
+              "cornerRadius": [
+                24,
+                4,
+                4,
+                24
+              ],
+              "id": "ESKA1",
+              "x": 0,
+              "y": 54,
+              "name": "fml",
+              "fill": "#A259FFFF",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "type": "ellipse",
+              "id": "R7q4P",
+              "x": 60,
+              "y": 54,
+              "name": "fmr",
+              "fill": "#1ABCFEFF",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "type": "ellipse",
+              "id": "dSTRu",
+              "x": 0,
+              "y": 108,
+              "name": "fbl",
+              "fill": "#0ACF83FF",
+              "width": 48,
+              "height": 48
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "8RN2N",
+          "name": "arrowFrame",
+          "gap": 12,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "rectangle",
+              "cornerRadius": 2,
+              "id": "hrsYb",
+              "name": "arrowLine",
+              "fill": {
+                "type": "gradient",
+                "gradientType": "linear",
+                "enabled": true,
+                "rotation": 0,
+                "size": {
+                  "height": 1
+                },
+                "colors": [
+                  {
+                    "color": "#FFFFFF10",
+                    "position": 0
+                  },
+                  {
+                    "color": "#FFFFFF40",
+                    "position": 0.5
+                  },
+                  {
+                    "color": "#FFFFFF10",
+                    "position": 1
+                  }
+                ]
+              },
+              "width": 100,
+              "height": 2
+            },
+            {
+              "type": "path",
+              "id": "85obR",
+              "name": "arrowHead",
+              "geometry": "M0 0l20 15-20 15z",
+              "fill": "#FFFFFF40",
+              "width": 20,
+              "height": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "PaDYS",
+      "x": 300,
+      "y": 1234,
+      "name": "Plugin Thumbnail V2 - Geometric Crazy",
+      "clip": true,
+      "width": 1920,
+      "height": 1080,
+      "fill": "#D4A017FF",
+      "layout": "none",
+      "children": [
+        {
+          "type": "rectangle",
+          "id": "OHug9",
+          "x": -100,
+          "y": -50,
+          "name": "s1",
+          "opacity": 0.9,
+          "rotation": 14.999999999999998,
+          "fill": "#F24E1EFF",
+          "width": 700,
+          "height": 500
+        },
+        {
+          "type": "path",
+          "id": "k7eVh",
+          "x": 300,
+          "y": 0,
+          "name": "s2",
+          "opacity": 0.85,
+          "geometry": "M0 550l300-550 300 550z",
+          "fill": "#A259FFFF",
+          "width": 600,
+          "height": 550
+        },
+        {
+          "type": "rectangle",
+          "id": "2wmjQ",
+          "x": 800,
+          "y": -80,
+          "name": "s3",
+          "opacity": 0.8,
+          "rotation": -20,
+          "fill": "#1ABCFEFF",
+          "width": 600,
+          "height": 450
+        },
+        {
+          "type": "path",
+          "id": "hOCVN",
+          "x": 1200,
+          "y": -100,
+          "name": "s4",
+          "opacity": 0.9,
+          "geometry": "M0 600l350-600 350 600z",
+          "fill": "#0ACF83FF",
+          "width": 700,
+          "height": 600
+        },
+        {
+          "type": "rectangle",
+          "id": "FGOF2",
+          "x": 1500,
+          "y": 100,
+          "name": "s5",
+          "opacity": 0.75,
+          "rotation": 29.999999999999996,
+          "fill": "#E6B422FF",
+          "width": 550,
+          "height": 400
+        },
+        {
+          "type": "polygon",
+          "polygonCount": 3,
+          "id": "kG2Cc",
+          "x": 100,
+          "y": 400,
+          "name": "s6",
+          "opacity": 0.85,
+          "rotation": 45,
+          "fill": "#FF7262FF",
+          "width": 500,
+          "height": 500
+        },
+        {
+          "type": "rectangle",
+          "id": "cX2sW",
+          "x": 500,
+          "y": 350,
+          "name": "s7",
+          "opacity": 0.8,
+          "rotation": -10,
+          "fill": "#CCB800FF",
+          "width": 650,
+          "height": 350
+        },
+        {
+          "type": "path",
+          "id": "mOoQ2",
+          "x": 900,
+          "y": 250,
+          "name": "s8",
+          "opacity": 0.7,
+          "geometry": "M0 500l275-500 275 500z",
+          "fill": "#F24E1EFF",
+          "width": 550,
+          "height": 500
+        },
+        {
+          "type": "rectangle",
+          "id": "xkN0c",
+          "x": 1300,
+          "y": 300,
+          "name": "s9",
+          "opacity": 0.9,
+          "rotation": 25,
+          "fill": "#A259FFFF",
+          "width": 500,
+          "height": 600
+        },
+        {
+          "type": "polygon",
+          "polygonCount": 3,
+          "id": "Sdj3X",
+          "x": -50,
+          "y": 650,
+          "name": "s10",
+          "opacity": 0.85,
+          "rotation": -29.999999999999996,
+          "fill": "#1ABCFEFF",
+          "width": 600,
+          "height": 550
+        },
+        {
+          "type": "path",
+          "id": "lfhRk",
+          "x": 450,
+          "y": 600,
+          "name": "s11",
+          "opacity": 0.8,
+          "geometry": "M0 0l700 200-200 300-400-50z",
+          "fill": "#0ACF83FF",
+          "width": 700,
+          "height": 500
+        },
+        {
+          "type": "rectangle",
+          "id": "Aw8Kw",
+          "x": 1000,
+          "y": 550,
+          "name": "s12",
+          "opacity": 0.9,
+          "rotation": -35,
+          "fill": "#D4A017FF",
+          "width": 550,
+          "height": 450
+        },
+        {
+          "type": "polygon",
+          "polygonCount": 3,
+          "id": "iF0za",
+          "x": 1400,
+          "y": 600,
+          "name": "s13",
+          "opacity": 0.75,
+          "rotation": 59.99999999999999,
+          "fill": "#FF7262FF",
+          "width": 650,
+          "height": 550
+        },
+        {
+          "type": "path",
+          "id": "BlPTQ",
+          "x": 700,
+          "y": -50,
+          "name": "s14",
+          "opacity": 0.85,
+          "geometry": "M0 400l250-400 250 300-100 100z",
+          "fill": "#E6B422FF",
+          "width": 500,
+          "height": 400
+        },
+        {
+          "type": "rectangle",
+          "id": "Srz28",
+          "x": 150,
+          "y": 200,
+          "name": "s15",
+          "opacity": 0.7,
+          "rotation": 50,
+          "fill": "#0ACF83FF",
+          "width": 400,
+          "height": 350
+        },
+        {
+          "type": "path",
+          "id": "Rqlvi",
+          "x": 1600,
+          "y": 500,
+          "name": "s16",
+          "opacity": 0.9,
+          "geometry": "M0 0l500 100-50 500-400-100z",
+          "fill": "#1ABCFEFF",
+          "width": 500,
+          "height": 600
+        },
+        {
+          "type": "polygon",
+          "polygonCount": 3,
+          "id": "OhK4Q",
+          "x": 800,
+          "y": 700,
+          "name": "s17",
+          "opacity": 0.8,
+          "rotation": -55,
+          "fill": "#F24E1EFF",
+          "width": 500,
+          "height": 450
+        },
+        {
+          "type": "rectangle",
+          "id": "afHbD",
+          "x": 200,
+          "y": 800,
+          "name": "s18",
+          "opacity": 0.75,
+          "rotation": 14.999999999999998,
+          "fill": "#A259FFFF",
+          "width": 600,
+          "height": 400
+        },
+        {
+          "type": "frame",
+          "id": "xcA3e",
+          "x": 510,
+          "y": 340,
+          "name": "Glass Card",
+          "width": 900,
+          "height": 400,
+          "fill": [
+            "#FFFFFF22",
+            {
+              "type": "gradient",
+              "gradientType": "linear",
+              "enabled": true,
+              "rotation": 180,
+              "size": {
+                "height": 1
+              },
+              "colors": [
+                {
+                  "color": "#FFFFFF15",
+                  "position": 0
+                },
+                {
+                  "color": "#FFFFFF08",
+                  "position": 1
+                }
+              ]
+            }
+          ],
+          "cornerRadius": 40,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1.5,
+            "fill": "#FFFFFF50"
+          },
+          "effect": [
+            {
+              "type": "background_blur",
+              "radius": 50
+            },
+            {
+              "type": "shadow",
+              "shadowType": "outer",
+              "color": "#00000025",
+              "offset": {
+                "x": 0,
+                "y": 12
+              },
+              "blur": 40
+            },
+            {
+              "type": "shadow",
+              "shadowType": "outer",
+              "color": "#FFFFFF30",
+              "offset": {
+                "x": 0,
+                "y": 1
+              }
+            }
+          ],
+          "layout": "vertical",
+          "gap": 32,
+          "justifyContent": "center",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "qLuJg",
+              "name": "logosRow2",
+              "gap": 48,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "kZmuA",
+                  "name": "pencilLogo2",
+                  "width": 100,
+                  "height": 100,
+                  "layout": "none",
+                  "children": [
+                    {
+                      "type": "path",
+                      "id": "mpvQK",
+                      "x": 0,
+                      "y": 0,
+                      "name": "ptri2a",
+                      "opacity": 0.95,
+                      "geometry": "M0 100l50-100 50 100z",
+                      "fill": {
+                        "type": "gradient",
+                        "gradientType": "linear",
+                        "enabled": true,
+                        "rotation": 180,
+                        "size": {
+                          "height": 1
+                        },
+                        "colors": [
+                          {
+                            "color": "#FFA600FF",
+                            "position": 0
+                          },
+                          {
+                            "color": "#FFD900FF",
+                            "position": 1
+                          }
+                        ]
+                      },
+                      "width": 100,
+                      "height": 100
+                    },
+                    {
+                      "type": "path",
+                      "id": "l5JbO",
+                      "x": 0,
+                      "y": 0,
+                      "name": "ptri2b",
+                      "opacity": 0.7,
+                      "geometry": "M20 100l30-65 30 65z",
+                      "fill": {
+                        "type": "gradient",
+                        "gradientType": "linear",
+                        "enabled": true,
+                        "rotation": 180,
+                        "size": {
+                          "height": 1
+                        },
+                        "colors": [
+                          {
+                            "color": "#EEEEEEFF",
+                            "position": 0
+                          },
+                          {
+                            "color": "#FFFFFFFF",
+                            "position": 1
+                          }
+                        ]
+                      },
+                      "width": 100,
+                      "height": 100
+                    },
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "7Dkge",
+                      "x": 22,
+                      "y": 78,
+                      "name": "pbase2",
+                      "fill": {
+                        "type": "gradient",
+                        "gradientType": "linear",
+                        "enabled": true,
+                        "rotation": 0,
+                        "size": {
+                          "height": 1
+                        },
+                        "colors": [
+                          {
+                            "color": "#333333FF",
+                            "position": 0
+                          },
+                          {
+                            "color": "#555555FF",
+                            "position": 1
+                          }
+                        ]
+                      },
+                      "width": 56,
+                      "height": 22
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "Lacrr",
+                  "name": "arrow2",
+                  "gap": 8,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "k0J2u",
+                      "name": "arrLine2",
+                      "fill": "#FFFFFFCC",
+                      "width": 60,
+                      "height": 3
+                    },
+                    {
+                      "type": "path",
+                      "id": "qKHCO",
+                      "name": "arrHead2",
+                      "geometry": "M0 0l16 12-16 12z",
+                      "fill": "#FFFFFFCC",
+                      "width": 16,
+                      "height": 24
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "omkhh",
+                  "name": "figma2",
+                  "width": 72,
+                  "height": 108,
+                  "layout": "none",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": [
+                        16,
+                        3,
+                        3,
+                        16
+                      ],
+                      "id": "nTzEt",
+                      "x": 0,
+                      "y": 0,
+                      "name": "f2tl",
+                      "fill": "#F24E1EFF",
+                      "width": 32,
+                      "height": 32
+                    },
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": [
+                        3,
+                        16,
+                        16,
+                        3
+                      ],
+                      "id": "Z0oUP",
+                      "x": 40,
+                      "y": 0,
+                      "name": "f2tr",
+                      "fill": "#FF7262FF",
+                      "width": 32,
+                      "height": 32
+                    },
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": [
+                        16,
+                        3,
+                        3,
+                        16
+                      ],
+                      "id": "gME2O",
+                      "x": 0,
+                      "y": 38,
+                      "name": "f2ml",
+                      "fill": "#A259FFFF",
+                      "width": 32,
+                      "height": 32
+                    },
+                    {
+                      "type": "ellipse",
+                      "id": "wpe67",
+                      "x": 40,
+                      "y": 38,
+                      "name": "f2mr",
+                      "fill": "#1ABCFEFF",
+                      "width": 32,
+                      "height": 32
+                    },
+                    {
+                      "type": "ellipse",
+                      "id": "nSCn6",
+                      "x": 0,
+                      "y": 76,
+                      "name": "f2bl",
+                      "fill": "#0ACF83FF",
+                      "width": 32,
+                      "height": 32
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "DGpJg",
+              "name": "titleRow",
+              "gap": 16,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "0Tq8M",
+                  "name": "titleTxt",
+                  "fill": "#FFFFFFFF",
+                  "content": "pencil.dev",
+                  "fontFamily": "Inter",
+                  "fontSize": 48,
+                  "fontWeight": "800"
+                },
+                {
+                  "type": "text",
+                  "id": "9tI3H",
+                  "name": "arrowTxt",
+                  "fill": "#FFFFFFAA",
+                  "content": "→",
+                  "fontFamily": "Inter",
+                  "fontSize": 48,
+                  "fontWeight": "300"
+                },
+                {
+                  "type": "text",
+                  "id": "PLEZm",
+                  "name": "figmaTxt",
+                  "fill": "#FFFFFFFF",
+                  "content": "Figma",
+                  "fontFamily": "Inter",
+                  "fontSize": 48,
+                  "fontWeight": "800"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "BGMRJ",
+              "name": "subTxt",
+              "fill": "#FFFFFFAA",
+              "content": "Import .pen design files directly into Figma",
+              "fontFamily": "Inter",
+              "fontSize": 20
+            },
+            {
+              "type": "frame",
+              "id": "defO8",
+              "name": "tagFrame",
+              "fill": "#FFFFFF20",
+              "cornerRadius": 20,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#FFFFFF30"
+              },
+              "padding": [
+                6,
+                16
+              ],
+              "children": [
+                {
+                  "type": "text",
+                  "id": "Q7OTt",
+                  "name": "tagTxt",
+                  "fill": "#FFFFFFCC",
+                  "content": "FIGMA PLUGIN",
+                  "fontFamily": "Geist Mono",
+                  "fontSize": 12,
+                  "fontWeight": "500",
+                  "letterSpacing": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "igsJj",
+      "x": 300,
+      "y": 2508,
+      "name": "Plugin Thumbnail V3 - Retro Illustration",
+      "clip": true,
+      "width": 1920,
+      "height": 1080,
+      "fill": "#1A1410FF",
+      "layout": "none",
+      "children": [
+        {
+          "type": "rectangle",
+          "cornerRadius": 4,
+          "id": "lzkoj",
+          "x": 500,
+          "y": 720,
+          "name": "Desk Surface",
+          "rotation": -2,
+          "fill": "#3A3530FF",
+          "width": 1000,
+          "height": 40
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": [
+            0,
+            0,
+            8,
+            8
+          ],
+          "id": "E9zPJ",
+          "x": 520,
+          "y": 755,
+          "name": "Desk Front Panel",
+          "rotation": -2,
+          "fill": "#221E1AFF",
+          "width": 960,
+          "height": 280
+        },
+        {
+          "type": "ellipse",
+          "id": "D5ACu",
+          "x": 1500,
+          "y": 700,
+          "name": "Vignette BR",
+          "fill": {
+            "type": "gradient",
+            "gradientType": "radial",
+            "enabled": true,
+            "rotation": 0,
+            "size": {
+              "width": 1,
+              "height": 1
+            },
+            "colors": [
+              {
+                "color": "#0A0800AA",
+                "position": 0
+              },
+              {
+                "color": "#0A080000",
+                "position": 1
+              }
+            ]
+          },
+          "width": 600,
+          "height": 600
+        },
+        {
+          "type": "ellipse",
+          "id": "BD7MX",
+          "x": -200,
+          "y": -200,
+          "name": "Vignette TL",
+          "fill": {
+            "type": "gradient",
+            "gradientType": "radial",
+            "enabled": true,
+            "rotation": 0,
+            "size": {
+              "width": 1,
+              "height": 1
+            },
+            "colors": [
+              {
+                "color": "#0A0800CC",
+                "position": 0
+              },
+              {
+                "color": "#0A080000",
+                "position": 1
+              }
+            ]
+          },
+          "width": 600,
+          "height": 600
+        },
+        {
+          "type": "rectangle",
+          "id": "M0Sy7",
+          "x": 560,
+          "y": 760,
+          "name": "Desk Leg Left",
+          "fill": "#1A1410FF",
+          "width": 30,
+          "height": 300
+        },
+        {
+          "type": "rectangle",
+          "id": "ohVl4",
+          "x": 1300,
+          "y": 0,
+          "name": "Sunray 5",
+          "rotation": 35,
+          "fill": "#E8D5B005",
+          "width": 20,
+          "height": 600
+        },
+        {
+          "type": "rectangle",
+          "id": "Ed6ZZ",
+          "x": 580,
+          "y": 0,
+          "name": "Sunray 4",
+          "rotation": -35,
+          "fill": "#E8D5B005",
+          "width": 20,
+          "height": 600
+        },
+        {
+          "type": "rectangle",
+          "id": "batsX",
+          "x": 1100,
+          "y": -50,
+          "name": "Sunray 3",
+          "rotation": 20,
+          "fill": "#E8D5B006",
+          "width": 25,
+          "height": 700
+        },
+        {
+          "type": "rectangle",
+          "id": "GBMhS",
+          "x": 700,
+          "y": -50,
+          "name": "Sunray 2",
+          "rotation": -20,
+          "fill": "#E8D5B006",
+          "width": 25,
+          "height": 700
+        },
+        {
+          "type": "rectangle",
+          "id": "PLpJq",
+          "x": 880,
+          "y": -100,
+          "name": "Sunray 1",
+          "fill": "#E8D5B008",
+          "width": 30,
+          "height": 700
+        },
+        {
+          "type": "rectangle",
+          "id": "dnzuf",
+          "x": 1400,
+          "y": 760,
+          "name": "Desk Leg Right",
+          "fill": "#1A1410FF",
+          "width": 30,
+          "height": 300
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 20,
+          "id": "jTw8p",
+          "x": 550,
+          "y": 150,
+          "name": "Backlight Wall",
+          "fill": {
+            "type": "gradient",
+            "gradientType": "radial",
+            "enabled": true,
+            "rotation": 0,
+            "size": {
+              "width": 1,
+              "height": 1
+            },
+            "colors": [
+              {
+                "color": "#E8D5B025",
+                "position": 0
+              },
+              {
+                "color": "#E8D5B000",
+                "position": 1
+              }
+            ]
+          },
+          "width": 780,
+          "height": 500
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 100,
+          "id": "fOYcb",
+          "x": 700,
+          "y": 450,
+          "name": "Screen Face Glow",
+          "fill": {
+            "type": "gradient",
+            "gradientType": "radial",
+            "enabled": true,
+            "rotation": 0,
+            "size": {
+              "width": 1,
+              "height": 1
+            },
+            "colors": [
+              {
+                "color": "#E8D5B018",
+                "position": 0
+              },
+              {
+                "color": "#E8D5B000",
+                "position": 1
+              }
+            ]
+          },
+          "width": 480,
+          "height": 200
+        },
+        {
+          "type": "path",
+          "id": "tyXUb",
+          "x": 860,
+          "y": 780,
+          "name": "Chair Back",
+          "geometry": "M20 0l-20 120 160 0-20-120q-40-10-60-10-20 0-60 10z",
+          "fill": "#3A3530FF",
+          "width": 160,
+          "height": 120
+        },
+        {
+          "type": "ellipse",
+          "id": "2tADH",
+          "x": 650,
+          "y": 500,
+          "name": "Monitor Light Cast",
+          "fill": {
+            "type": "gradient",
+            "gradientType": "radial",
+            "enabled": true,
+            "rotation": 0,
+            "size": {
+              "width": 1,
+              "height": 1
+            },
+            "colors": [
+              {
+                "color": "#E8720C18",
+                "position": 0
+              },
+              {
+                "color": "#E8720C00",
+                "position": 1
+              }
+            ]
+          },
+          "width": 580,
+          "height": 300
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "id": "LDvtf",
+          "x": 880,
+          "y": 660,
+          "name": "Monitor Stand",
+          "fill": "#2A2520FF",
+          "width": 120,
+          "height": 70
+        },
+        {
+          "type": "ellipse",
+          "id": "TNwWA",
+          "x": 700,
+          "y": 300,
+          "name": "Monitor Glow",
+          "fill": {
+            "type": "gradient",
+            "gradientType": "radial",
+            "enabled": true,
+            "rotation": 0,
+            "size": {
+              "width": 1,
+              "height": 1
+            },
+            "colors": [
+              {
+                "color": "#E8720C15",
+                "position": 0
+              },
+              {
+                "color": "#E8720C00",
+                "position": 1
+              }
+            ]
+          },
+          "width": 500,
+          "height": 350
+        },
+        {
+          "type": "rectangle",
+          "id": "uFKVi",
+          "x": 920,
+          "y": 600,
+          "name": "Monitor Neck",
+          "fill": "#2A2520FF",
+          "width": 40,
+          "height": 70
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 16,
+          "id": "7Sra8",
+          "x": 610,
+          "y": 230,
+          "name": "Monitor Frame",
+          "fill": "#3A3530FF",
+          "width": 660,
+          "height": 400
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 8,
+          "id": "7F5u3",
+          "x": 628,
+          "y": 248,
+          "name": "Monitor Screen",
+          "fill": "#1A1410FF",
+          "width": 624,
+          "height": 358
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": [
+            8,
+            8,
+            0,
+            0
+          ],
+          "id": "ePvHy",
+          "x": 628,
+          "y": 248,
+          "name": "Screen Toolbar",
+          "fill": "#2A2520FF",
+          "width": 624,
+          "height": 30
+        },
+        {
+          "type": "ellipse",
+          "id": "P8Gvd",
+          "x": 640,
+          "y": 257,
+          "name": "Close btn",
+          "fill": "#E8720CFF",
+          "width": 12,
+          "height": 12
+        },
+        {
+          "type": "ellipse",
+          "id": "0wUWK",
+          "x": 658,
+          "y": 257,
+          "name": "Min btn",
+          "fill": "#E8D5B060",
+          "width": 12,
+          "height": 12
+        },
+        {
+          "type": "ellipse",
+          "id": "Cp06k",
+          "x": 676,
+          "y": 257,
+          "name": "Max btn",
+          "fill": "#E8D5B060",
+          "width": 12,
+          "height": 12
+        },
+        {
+          "type": "rectangle",
+          "id": "4P116",
+          "x": 628,
+          "y": 278,
+          "name": "Screen Side Panel",
+          "fill": "#221E1AFF",
+          "width": 140,
+          "height": 328
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 3,
+          "id": "ZKOyF",
+          "x": 638,
+          "y": 295,
+          "name": "Layer 1",
+          "fill": "#E8720C50",
+          "width": 120,
+          "height": 20
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 3,
+          "id": "CDxMd",
+          "x": 638,
+          "y": 321,
+          "name": "Layer 2",
+          "fill": "#E8D5B020",
+          "width": 120,
+          "height": 20
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 3,
+          "id": "WGhpf",
+          "x": 638,
+          "y": 347,
+          "name": "Layer 3",
+          "fill": "#E8D5B020",
+          "width": 120,
+          "height": 20
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 3,
+          "id": "UvSpI",
+          "x": 648,
+          "y": 373,
+          "name": "Layer 4",
+          "fill": "#E8D5B015",
+          "width": 100,
+          "height": 20
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 3,
+          "id": "kzt0M",
+          "x": 648,
+          "y": 399,
+          "name": "Layer 5",
+          "fill": "#E8D5B010",
+          "width": 110,
+          "height": 20
+        },
+        {
+          "type": "rectangle",
+          "id": "PuNLF",
+          "x": 768,
+          "y": 278,
+          "name": "Canvas BG",
+          "fill": "#15120EFF",
+          "width": 484,
+          "height": 328
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 6,
+          "id": "VqvAj",
+          "x": 820,
+          "y": 310,
+          "name": "Design Frame on screen",
+          "fill": "#E8D5B008",
+          "width": 320,
+          "height": 230,
+          "stroke": {
+            "align": "outside",
+            "thickness": 2,
+            "fill": "#E8720CFF"
+          }
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 6,
+          "id": "v0giy",
+          "x": 840,
+          "y": 330,
+          "name": "Design Element 1",
+          "fill": "#E8720CFF",
+          "width": 160,
+          "height": 36
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 3,
+          "id": "y8U2s",
+          "x": 840,
+          "y": 378,
+          "name": "Design Element 2",
+          "fill": "#E8D5B030",
+          "width": 280,
+          "height": 16
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 3,
+          "id": "Hz1yW",
+          "x": 840,
+          "y": 402,
+          "name": "Design Element 3",
+          "fill": "#E8D5B020",
+          "width": 230,
+          "height": 16
+        },
+        {
+          "type": "ellipse",
+          "id": "1hNAO",
+          "x": 1050,
+          "y": 330,
+          "name": "Design Circle",
+          "fill": "#6B3FA0FF",
+          "width": 70,
+          "height": 70
+        },
+        {
+          "type": "rectangle",
+          "id": "YWV8z",
+          "x": -200,
+          "y": 100,
+          "name": "Diagonal Band 1",
+          "opacity": 0.6,
+          "rotation": 18,
+          "fill": "#2A2520FF",
+          "width": 2400,
+          "height": 100
+        },
+        {
+          "type": "rectangle",
+          "id": "x2aCB",
+          "x": -100,
+          "y": 350,
+          "name": "Diagonal Band 2",
+          "opacity": 0.5,
+          "rotation": -14.999999999999998,
+          "fill": "#2A2520FF",
+          "width": 2300,
+          "height": 90
+        },
+        {
+          "type": "rectangle",
+          "id": "VSiUv",
+          "x": -150,
+          "y": 650,
+          "name": "Diagonal Band 3",
+          "opacity": 0.55,
+          "rotation": 22,
+          "fill": "#2A2520FF",
+          "width": 2400,
+          "height": 110
+        },
+        {
+          "type": "rectangle",
+          "id": "xMR6V",
+          "x": -100,
+          "y": 880,
+          "name": "Diagonal Band 4",
+          "opacity": 0.45,
+          "rotation": -20,
+          "fill": "#2A2520FF",
+          "width": 2300,
+          "height": 85
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 6,
+          "id": "DqXWV",
+          "x": 840,
+          "y": 440,
+          "name": "Design Button",
+          "fill": "#E8720CFF",
+          "width": 100,
+          "height": 32
+        },
+        {
+          "type": "text",
+          "id": "KNHqt",
+          "x": 869,
+          "y": 450,
+          "name": "Btn Label",
+          "fill": "#1A1410FF",
+          "content": "Import",
+          "fontFamily": "Inter",
+          "fontSize": 13,
+          "fontWeight": "700"
+        },
+        {
+          "type": "rectangle",
+          "id": "SfD0J",
+          "x": 1130,
+          "y": 278,
+          "name": "Screen Right Panel",
+          "fill": "#221E1AFF",
+          "width": 122,
+          "height": 328
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 2,
+          "id": "kRNLg",
+          "x": 1140,
+          "y": 295,
+          "name": "Prop 1",
+          "fill": "#E8D5B025",
+          "width": 70,
+          "height": 12
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 3,
+          "id": "CsXvx",
+          "x": 1140,
+          "y": 313,
+          "name": "Prop Val 1",
+          "fill": "#E8D5B015",
+          "width": 100,
+          "height": 16
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 2,
+          "id": "UOpr9",
+          "x": 1140,
+          "y": 340,
+          "name": "Prop 2",
+          "fill": "#E8D5B025",
+          "width": 55,
+          "height": 12
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 3,
+          "id": "IHAsE",
+          "x": 1140,
+          "y": 358,
+          "name": "Prop Val 2",
+          "fill": "#E8D5B015",
+          "width": 100,
+          "height": 16
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 4,
+          "id": "RV7D0",
+          "x": 1140,
+          "y": 390,
+          "name": "Color 1",
+          "fill": "#E8720CFF",
+          "width": 22,
+          "height": 22
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 4,
+          "id": "ASEhj",
+          "x": 1168,
+          "y": 390,
+          "name": "Color 2",
+          "fill": "#6B3FA0FF",
+          "width": 22,
+          "height": 22
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 4,
+          "id": "2UGZX",
+          "x": 1196,
+          "y": 390,
+          "name": "Color 3",
+          "fill": "#E8D5B0FF",
+          "width": 22,
+          "height": 22
+        },
+        {
+          "type": "frame",
+          "id": "NxeMO",
+          "x": 120,
+          "y": 80,
+          "name": "Float Panel 1",
+          "opacity": 0.25,
+          "rotation": 8,
+          "width": 160,
+          "height": 110,
+          "fill": "#E8D5B0FF",
+          "cornerRadius": 4,
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "cornerRadius": [
+                4,
+                4,
+                0,
+                0
+              ],
+              "id": "PERBq",
+              "x": 0,
+              "y": 0,
+              "name": "Title Bar",
+              "fill": "#E8720CFF",
+              "width": 160,
+              "height": 14
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "MwkYp",
+          "x": 350,
+          "y": 40,
+          "name": "Float Panel 2",
+          "opacity": 0.3,
+          "rotation": -12.000000000000002,
+          "width": 130,
+          "height": 90,
+          "fill": "#E8D5B0FF",
+          "cornerRadius": 4,
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "cornerRadius": [
+                4,
+                4,
+                0,
+                0
+              ],
+              "id": "tp2P9",
+              "x": 0,
+              "y": 0,
+              "name": "Title Bar",
+              "fill": "#E8720CFF",
+              "width": 130,
+              "height": 12
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "0YNBo",
+          "x": 1550,
+          "y": 60,
+          "name": "Float Panel 3",
+          "opacity": 0.22,
+          "rotation": 6.000000000000001,
+          "width": 200,
+          "height": 130,
+          "fill": "#E8D5B0FF",
+          "cornerRadius": 4,
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "cornerRadius": [
+                4,
+                4,
+                0,
+                0
+              ],
+              "id": "wTaZq",
+              "x": 0,
+              "y": 0,
+              "name": "Title Bar",
+              "fill": "#E8720CFF",
+              "width": 200,
+              "height": 16
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "UO0U5",
+          "x": 1700,
+          "y": 250,
+          "name": "Float Panel 4",
+          "opacity": 0.28,
+          "rotation": -9,
+          "width": 140,
+          "height": 100,
+          "fill": "#E8D5B0FF",
+          "cornerRadius": 4,
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "cornerRadius": [
+                4,
+                4,
+                0,
+                0
+              ],
+              "id": "nwAJN",
+              "x": 0,
+              "y": 0,
+              "name": "Title Bar",
+              "fill": "#E8720CFF",
+              "width": 140,
+              "height": 12
+            }
+          ]
+        },
+        {
+          "type": "ellipse",
+          "id": "wWhkN",
+          "x": 80,
+          "y": 220,
+          "name": "Accent Circle 1",
+          "opacity": 0.4,
+          "fill": "#E8720CFF",
+          "width": 45,
+          "height": 45
+        },
+        {
+          "type": "ellipse",
+          "id": "De3kL",
+          "x": 480,
+          "y": 150,
+          "name": "Accent Circle 2",
+          "opacity": 0.35,
+          "fill": "#E8720CFF",
+          "width": 35,
+          "height": 35
+        },
+        {
+          "type": "ellipse",
+          "id": "5fasT",
+          "x": 1650,
+          "y": 180,
+          "name": "Accent Circle 3",
+          "opacity": 0.45,
+          "fill": "#E8720CFF",
+          "width": 40,
+          "height": 40
+        },
+        {
+          "type": "ellipse",
+          "id": "aZTNs",
+          "x": 1800,
+          "y": 420,
+          "name": "Accent Circle 4",
+          "opacity": 0.3,
+          "fill": "#E8720CFF",
+          "width": 30,
+          "height": 30
+        },
+        {
+          "type": "polygon",
+          "polygonCount": 3,
+          "id": "CsedO",
+          "x": 200,
+          "y": 350,
+          "name": "Geo Triangle 1",
+          "opacity": 0.25,
+          "rotation": 14.999999999999998,
+          "fill": "#E8D5B0FF",
+          "width": 40,
+          "height": 40
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 2,
+          "id": "AWtRN",
+          "x": 830,
+          "y": 700,
+          "name": "Shirt Stripe",
+          "fill": "#E8720C60",
+          "width": 220,
+          "height": 4
+        },
+        {
+          "type": "ellipse",
+          "id": "MSeIG",
+          "x": 790,
+          "y": 635,
+          "name": "Left Shoulder",
+          "fill": "#2A2520FF",
+          "width": 70,
+          "height": 55
+        },
+        {
+          "type": "polygon",
+          "polygonCount": 3,
+          "id": "vgXeZ",
+          "x": 1750,
+          "y": 130,
+          "name": "Geo Triangle 2",
+          "opacity": 0.2,
+          "rotation": -20,
+          "fill": "#E8D5B0FF",
+          "width": 35,
+          "height": 35
+        },
+        {
+          "type": "rectangle",
+          "id": "YU9o1",
+          "x": 50,
+          "y": 450,
+          "name": "Geo Diamond",
+          "opacity": 0.2,
+          "rotation": 45,
+          "fill": "#E8D5B0FF",
+          "width": 25,
+          "height": 25
+        },
+        {
+          "type": "ellipse",
+          "id": "fAOf3",
+          "x": 280,
+          "y": 480,
+          "name": "Grid Dot 1",
+          "opacity": 0.4,
+          "fill": "#E8720CFF",
+          "width": 8,
+          "height": 8
+        },
+        {
+          "type": "ellipse",
+          "id": "EbV1f",
+          "x": 296,
+          "y": 480,
+          "name": "Grid Dot 2",
+          "opacity": 0.4,
+          "fill": "#E8720CFF",
+          "width": 8,
+          "height": 8
+        },
+        {
+          "type": "ellipse",
+          "id": "z2LGE",
+          "x": 312,
+          "y": 480,
+          "name": "Grid Dot 3",
+          "opacity": 0.4,
+          "fill": "#E8720CFF",
+          "width": 8,
+          "height": 8
+        },
+        {
+          "type": "ellipse",
+          "id": "1Xqik",
+          "x": 280,
+          "y": 496,
+          "name": "Grid Dot 4",
+          "opacity": 0.4,
+          "fill": "#E8720CFF",
+          "width": 8,
+          "height": 8
+        },
+        {
+          "type": "ellipse",
+          "id": "N03Mm",
+          "x": 296,
+          "y": 496,
+          "name": "Grid Dot 5",
+          "opacity": 0.4,
+          "fill": "#E8720CFF",
+          "width": 8,
+          "height": 8
+        },
+        {
+          "type": "ellipse",
+          "id": "4WPzv",
+          "x": 312,
+          "y": 496,
+          "name": "Grid Dot 6",
+          "opacity": 0.4,
+          "fill": "#E8720CFF",
+          "width": 8,
+          "height": 8
+        },
+        {
+          "type": "ellipse",
+          "id": "pWs3u",
+          "x": 280,
+          "y": 512,
+          "name": "Grid Dot 7",
+          "opacity": 0.4,
+          "fill": "#E8720CFF",
+          "width": 8,
+          "height": 8
+        },
+        {
+          "type": "ellipse",
+          "id": "wvHwp",
+          "x": 296,
+          "y": 512,
+          "name": "Grid Dot 8",
+          "opacity": 0.4,
+          "fill": "#E8720CFF",
+          "width": 8,
+          "height": 8
+        },
+        {
+          "type": "ellipse",
+          "id": "RaMov",
+          "x": 312,
+          "y": 512,
+          "name": "Grid Dot 9",
+          "opacity": 0.4,
+          "fill": "#E8720CFF",
+          "width": 8,
+          "height": 8
+        },
+        {
+          "type": "path",
+          "id": "u0ykl",
+          "x": 790,
+          "y": 640,
+          "name": "Left Sleeve",
+          "geometry": "M30 0q-30 10-30 30l10 20 40-10q10-20-20-40z",
+          "fill": "#2A2520FF",
+          "width": 60,
+          "height": 50
+        },
+        {
+          "type": "ellipse",
+          "id": "GoN2A",
+          "x": 150,
+          "y": 50,
+          "name": "Grain",
+          "opacity": 0.08,
+          "fill": "#E8D5B0FF",
+          "width": 4,
+          "height": 4
+        },
+        {
+          "type": "ellipse",
+          "id": "1Ac5d",
+          "x": 420,
+          "y": 120,
+          "name": "Grain",
+          "opacity": 0.06,
+          "fill": "#E8D5B0FF",
+          "width": 5,
+          "height": 5
+        },
+        {
+          "type": "rectangle",
+          "id": "9qRy9",
+          "x": -50,
+          "y": 1030,
+          "name": "Bottom Dark Band",
+          "fill": "#2A2520FF",
+          "width": 2020,
+          "height": 60
+        },
+        {
+          "type": "ellipse",
+          "id": "mYI2H",
+          "x": 680,
+          "y": 80,
+          "name": "Grain",
+          "opacity": 0.1,
+          "fill": "#E8D5B0FF",
+          "width": 3,
+          "height": 3
+        },
+        {
+          "type": "rectangle",
+          "id": "T0fOH",
+          "x": -50,
+          "y": -3,
+          "name": "Top Orange Band",
+          "fill": "#E8720CDD",
+          "width": 2020,
+          "height": 60
+        },
+        {
+          "type": "frame",
+          "id": "d2Dga",
+          "x": 200,
+          "y": 8,
+          "name": "Brand Area",
+          "width": 1520,
+          "height": 44,
+          "gap": 20,
+          "justifyContent": "center",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "H0VxC",
+              "name": "brandTitle",
+              "fill": "#1A1410FF",
+              "content": "PENCIL.DEV",
+              "fontFamily": "Inter",
+              "fontSize": 26,
+              "fontWeight": "900",
+              "letterSpacing": 8
+            },
+            {
+              "type": "text",
+              "id": "mJxMG",
+              "name": "brandArrow",
+              "fill": "#1A1410CC",
+              "content": "→ FIGMA",
+              "fontFamily": "Inter",
+              "fontSize": 26,
+              "fontWeight": "700",
+              "letterSpacing": 5
+            },
+            {
+              "type": "text",
+              "id": "jjfwm",
+              "x": 911,
+              "y": 15.5,
+              "name": "brandSub",
+              "enabled": false,
+              "fill": "#1A1410AA",
+              "content": "IMPORT PLUGIN",
+              "fontFamily": "Geist Mono",
+              "fontSize": 10,
+              "fontWeight": "500",
+              "letterSpacing": 4
+            }
+          ]
+        },
+        {
+          "type": "ellipse",
+          "id": "27syf",
+          "x": 950,
+          "y": 40,
+          "name": "Grain",
+          "opacity": 0.07,
+          "fill": "#E8D5B0FF",
+          "width": 5,
+          "height": 5
+        },
+        {
+          "type": "ellipse",
+          "id": "0Wty1",
+          "x": 1200,
+          "y": 110,
+          "name": "Grain",
+          "opacity": 0.09,
+          "fill": "#E8D5B0FF",
+          "width": 4,
+          "height": 4
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 4,
+          "id": "QI1xI",
+          "x": 810,
+          "y": 725,
+          "name": "Keyboard",
+          "fill": "#3A3530FF",
+          "width": 260,
+          "height": 35
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 2,
+          "id": "MyEFV",
+          "x": 820,
+          "y": 730,
+          "name": "KB Keys Row 1",
+          "fill": "#E8D5B015",
+          "width": 240,
+          "height": 10
+        },
+        {
+          "type": "ellipse",
+          "id": "jx8Lj",
+          "x": 1500,
+          "y": 60,
+          "name": "Grain",
+          "opacity": 0.05,
+          "fill": "#E8D5B0FF",
+          "width": 6,
+          "height": 6
+        },
+        {
+          "type": "ellipse",
+          "id": "UsRho",
+          "x": 1800,
+          "y": 90,
+          "name": "Grain",
+          "opacity": 0.11,
+          "fill": "#E8D5B0FF",
+          "width": 4,
+          "height": 4
+        },
+        {
+          "type": "ellipse",
+          "id": "L3q1V",
+          "x": 300,
+          "y": 300,
+          "name": "Grain",
+          "opacity": 0.06,
+          "fill": "#E8D5B0FF",
+          "width": 5,
+          "height": 5
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 2,
+          "id": "vy3u4",
+          "x": 830,
+          "y": 745,
+          "name": "KB Keys Row 2",
+          "fill": "#E8D5B010",
+          "width": 220,
+          "height": 10
+        },
+        {
+          "type": "ellipse",
+          "id": "uEjEI",
+          "x": 550,
+          "y": 550,
+          "name": "Grain",
+          "opacity": 0.08,
+          "fill": "#E8D5B0FF",
+          "width": 3,
+          "height": 3
+        },
+        {
+          "type": "ellipse",
+          "id": "efx6s",
+          "x": 1650,
+          "y": 500,
+          "name": "Grain",
+          "opacity": 0.07,
+          "fill": "#E8D5B0FF",
+          "width": 4,
+          "height": 4
+        },
+        {
+          "type": "ellipse",
+          "id": "P5mnJ",
+          "x": 100,
+          "y": 700,
+          "name": "Grain",
+          "opacity": 0.09,
+          "fill": "#E8D5B0FF",
+          "width": 5,
+          "height": 5
+        },
+        {
+          "type": "ellipse",
+          "id": "nxYEs",
+          "x": 400,
+          "y": 850,
+          "name": "Grain",
+          "opacity": 0.06,
+          "fill": "#E8D5B0FF",
+          "width": 4,
+          "height": 4
+        },
+        {
+          "type": "ellipse",
+          "id": "FIt4c",
+          "x": 750,
+          "y": 950,
+          "name": "Grain",
+          "opacity": 0.05,
+          "fill": "#E8D5B0FF",
+          "width": 6,
+          "height": 6
+        },
+        {
+          "type": "ellipse",
+          "id": "22WBU",
+          "x": 1100,
+          "y": 900,
+          "name": "Grain",
+          "opacity": 0.1,
+          "fill": "#E8D5B0FF",
+          "width": 3,
+          "height": 3
+        },
+        {
+          "type": "ellipse",
+          "id": "aJAqz",
+          "x": 1400,
+          "y": 800,
+          "name": "Grain",
+          "opacity": 0.08,
+          "fill": "#E8D5B0FF",
+          "width": 5,
+          "height": 5
+        },
+        {
+          "type": "ellipse",
+          "id": "7ZipB",
+          "x": 1750,
+          "y": 750,
+          "name": "Grain",
+          "opacity": 0.07,
+          "fill": "#E8D5B0FF",
+          "width": 4,
+          "height": 4
+        },
+        {
+          "type": "ellipse",
+          "id": "mYzgt",
+          "x": 60,
+          "y": 980,
+          "name": "Grain",
+          "opacity": 0.12,
+          "fill": "#E8D5B0FF",
+          "width": 5,
+          "height": 5
+        },
+        {
+          "type": "ellipse",
+          "id": "cjKKx",
+          "x": 1850,
+          "y": 1000,
+          "name": "Grain",
+          "opacity": 0.06,
+          "fill": "#E8D5B0FF",
+          "width": 3,
+          "height": 3
+        },
+        {
+          "type": "rectangle",
+          "id": "XT15w",
+          "x": -200,
+          "y": 0,
+          "name": "Diagonal Left",
+          "rotation": 20,
+          "fill": "#2A2520FF",
+          "width": 120,
+          "height": 1600
+        },
+        {
+          "type": "rectangle",
+          "id": "NkZPE",
+          "x": 1700,
+          "y": -200,
+          "name": "Diagonal Right",
+          "rotation": -14.999999999999998,
+          "fill": "#2A2520FF",
+          "width": 100,
+          "height": 1600
+        },
+        {
+          "type": "rectangle",
+          "id": "qVKa4",
+          "x": -100,
+          "y": 200,
+          "name": "Diagonal Left 2",
+          "rotation": 25,
+          "fill": "#1A1410FF",
+          "width": 80,
+          "height": 1400
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 8,
+          "id": "jyHvO",
+          "x": 20,
+          "y": 280,
+          "name": "Side Monitor Left",
+          "rotation": 12.000000000000002,
+          "fill": "#3A3530FF",
+          "width": 380,
+          "height": 520
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 4,
+          "id": "PG0aq",
+          "x": 45,
+          "y": 310,
+          "name": "Side Screen Left",
+          "rotation": 12.000000000000002,
+          "fill": "#120F0BFF",
+          "width": 330,
+          "height": 450
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 8,
+          "id": "R2OM2",
+          "x": 1520,
+          "y": 230,
+          "name": "Side Monitor Right",
+          "rotation": -10,
+          "fill": "#3A3530FF",
+          "width": 350,
+          "height": 480
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 4,
+          "id": "Gq4hq",
+          "x": 1545,
+          "y": 260,
+          "name": "Side Screen Right",
+          "rotation": -10,
+          "fill": "#120F0BFF",
+          "width": 300,
+          "height": 410
+        },
+        {
+          "type": "path",
+          "id": "s4deZ",
+          "x": 1000,
+          "y": 420,
+          "name": "Cursor on screen",
+          "geometry": "M0 0l0 22 6-5 6 11 4-2-6-11 8 0z",
+          "fill": "#E8D5B0FF",
+          "width": 20,
+          "height": 28
+        },
+        {
+          "type": "text",
+          "id": "NzaB0",
+          "x": 550,
+          "y": 200,
+          "name": "Starburst 1",
+          "fill": "#E8720C90",
+          "content": "✦",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "text",
+          "id": "mVMJz",
+          "x": 1320,
+          "y": 350,
+          "name": "Starburst 2",
+          "fill": "#E8D5B060",
+          "content": "✦",
+          "fontFamily": "Inter",
+          "fontSize": 16,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "text",
+          "id": "SgsCD",
+          "x": 300,
+          "y": 800,
+          "name": "Starburst 3",
+          "fill": "#E8720C50",
+          "content": "✦",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "text",
+          "id": "qK8ho",
+          "x": 1600,
+          "y": 700,
+          "name": "Starburst 4",
+          "fill": "#E8D5B040",
+          "content": "✦",
+          "fontFamily": "Inter",
+          "fontSize": 18,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "ellipse",
+          "id": "pJfUI",
+          "x": 1400,
+          "y": 460,
+          "name": "dot1",
+          "fill": "#E8720C60",
+          "width": 6,
+          "height": 6
+        },
+        {
+          "type": "ellipse",
+          "id": "bwyM4",
+          "x": 1416,
+          "y": 460,
+          "name": "dot2",
+          "fill": "#E8720C60",
+          "width": 6,
+          "height": 6
+        },
+        {
+          "type": "ellipse",
+          "id": "LcKXu",
+          "x": 1432,
+          "y": 460,
+          "name": "dot3",
+          "fill": "#E8720C60",
+          "width": 6,
+          "height": 6
+        },
+        {
+          "type": "ellipse",
+          "id": "k1DeY",
+          "x": 1400,
+          "y": 476,
+          "name": "dot4",
+          "fill": "#E8720C60",
+          "width": 6,
+          "height": 6
+        },
+        {
+          "type": "ellipse",
+          "id": "naNBF",
+          "x": 1416,
+          "y": 476,
+          "name": "dot5",
+          "fill": "#E8720C60",
+          "width": 6,
+          "height": 6
+        },
+        {
+          "type": "ellipse",
+          "id": "5J08k",
+          "x": 1432,
+          "y": 476,
+          "name": "dot6",
+          "fill": "#E8720C60",
+          "width": 6,
+          "height": 6
+        },
+        {
+          "type": "text",
+          "id": "zM7Kw",
+          "x": 196,
+          "y": 580.7506914002806,
+          "name": "Pencil label on left monitor",
+          "rotation": 12.000000000000002,
+          "fill": "#E8720C40",
+          "content": "PENCIL.DEV",
+          "fontFamily": "Inter",
+          "fontSize": 22,
+          "fontWeight": "900",
+          "letterSpacing": 6
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 8,
+          "id": "jD2fI",
+          "x": -80,
+          "y": 200,
+          "name": "Edge Panel Left",
+          "rotation": 8,
+          "fill": "#E8720CFF",
+          "width": 180,
+          "height": 700
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 4,
+          "id": "Fo0pa",
+          "x": -40,
+          "y": 260,
+          "name": "Edge Panel Left Inner",
+          "rotation": 8,
+          "fill": "#E8D5B0FF",
+          "width": 120,
+          "height": 580
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 8,
+          "id": "vnZIM",
+          "x": 1820,
+          "y": 150,
+          "name": "Edge Panel Right",
+          "rotation": -6.000000000000001,
+          "fill": "#E8720CFF",
+          "width": 160,
+          "height": 750
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 4,
+          "id": "Xc7TG",
+          "x": 1848,
+          "y": 210,
+          "name": "Edge Panel Right Inner",
+          "rotation": -6.000000000000001,
+          "fill": "#E8D5B0FF",
+          "width": 100,
+          "height": 630
+        },
+        {
+          "type": "rectangle",
+          "id": "KTsgH",
+          "x": -20,
+          "y": 340,
+          "name": "Stripe L1",
+          "rotation": 8,
+          "fill": "#E8720CFF",
+          "width": 80,
+          "height": 5
+        },
+        {
+          "type": "rectangle",
+          "id": "bpmuU",
+          "x": -20,
+          "y": 360,
+          "name": "Stripe L2",
+          "rotation": 8,
+          "fill": "#E8720CFF",
+          "width": 80,
+          "height": 5
+        },
+        {
+          "type": "rectangle",
+          "id": "2902H",
+          "x": -20,
+          "y": 380,
+          "name": "Stripe L3",
+          "rotation": 8,
+          "fill": "#E8720CFF",
+          "width": 80,
+          "height": 5
+        },
+        {
+          "type": "rectangle",
+          "id": "2Tczs",
+          "x": -20,
+          "y": 400,
+          "name": "Stripe L4",
+          "rotation": 8,
+          "fill": "#E8720CFF",
+          "width": 80,
+          "height": 5
+        },
+        {
+          "type": "ellipse",
+          "id": "hvOh3",
+          "x": 10,
+          "y": 450,
+          "name": "Deco Circle L",
+          "fill": "#E8720CFF",
+          "width": 50,
+          "height": 50
+        },
+        {
+          "type": "ellipse",
+          "id": "Jv6Rs",
+          "x": 18,
+          "y": 458,
+          "name": "Deco Circle L Inner",
+          "fill": "#E8D5B0FF",
+          "width": 34,
+          "height": 34
+        },
+        {
+          "type": "rectangle",
+          "id": "cvuZe",
+          "x": 1870,
+          "y": 300,
+          "name": "Stripe R1",
+          "rotation": -6.000000000000001,
+          "fill": "#E8720CFF",
+          "width": 70,
+          "height": 5
+        },
+        {
+          "type": "rectangle",
+          "id": "tgjcV",
+          "x": 1870,
+          "y": 320,
+          "name": "Stripe R2",
+          "rotation": -6.000000000000001,
+          "fill": "#E8720CFF",
+          "width": 70,
+          "height": 5
+        },
+        {
+          "type": "rectangle",
+          "id": "2urbi",
+          "x": 1870,
+          "y": 340,
+          "name": "Stripe R3",
+          "rotation": -6.000000000000001,
+          "fill": "#E8720CFF",
+          "width": 70,
+          "height": 5
+        },
+        {
+          "type": "path",
+          "id": "ZZFwY",
+          "x": 15,
+          "y": 560,
+          "name": "Arrow Deco Left",
+          "geometry": "M20 0l20 25-20 25-20-25z",
+          "fill": "#E8720CFF",
+          "width": 40,
+          "height": 50
+        },
+        {
+          "type": "frame",
+          "id": "K0CBB",
+          "x": 1633.2079141585862,
+          "y": 376.7113518657161,
+          "name": "figma2",
+          "rotation": -8.579212420376189,
+          "width": 72,
+          "height": 108,
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "cornerRadius": [
+                16,
+                3,
+                3,
+                16
+              ],
+              "id": "Cb6ii",
+              "x": 0,
+              "y": 0,
+              "name": "f2tl",
+              "fill": "#F24E1EFF",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "type": "rectangle",
+              "cornerRadius": [
+                3,
+                16,
+                16,
+                3
+              ],
+              "id": "ecpBJ",
+              "x": 40,
+              "y": 0,
+              "name": "f2tr",
+              "fill": "#FF7262FF",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "type": "rectangle",
+              "cornerRadius": [
+                16,
+                3,
+                3,
+                16
+              ],
+              "id": "qVR59",
+              "x": 0,
+              "y": 38,
+              "name": "f2ml",
+              "fill": "#A259FFFF",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "type": "ellipse",
+              "id": "zi4tR",
+              "x": 40,
+              "y": 38,
+              "name": "f2mr",
+              "fill": "#1ABCFEFF",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "type": "ellipse",
+              "id": "CSVhF",
+              "x": 0,
+              "y": 76,
+              "name": "f2bl",
+              "fill": "#0ACF83FF",
+              "width": 32,
+              "height": 32
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "LHRkT",
+          "x": 1587.2758015469549,
+          "y": 527,
+          "name": "Pencil label on left monitor",
+          "rotation": -11.268094767837662,
+          "fill": "#E8720C40",
+          "content": "FIGMA",
+          "fontFamily": "Inter",
+          "fontSize": 22,
+          "fontWeight": "900",
+          "letterSpacing": 6
+        },
+        {
+          "type": "rectangle",
+          "id": "l3JSE",
+          "x": 160,
+          "y": 484.5401705952072,
+          "rotation": 11.294162504706705,
+          "fill": {
+            "type": "image",
+            "enabled": true,
+            "url": "images/pencil.png",
+            "mode": "fill"
+          },
+          "width": 207,
+          "height": 41
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "ZuFXg",
+      "x": 300,
+      "y": 3728,
+      "name": "Plugin Thumbnail V4 - Over Shoulder",
+      "clip": true,
+      "width": 1920,
+      "height": 1080,
+      "fill": "#1A1410FF",
+      "layout": "none",
+      "children": [
+        {
+          "type": "path",
+          "id": "RNVlx",
+          "x": 800,
+          "y": 640,
+          "name": "Chair Back",
+          "geometry": "M40 0q-40 30-30 120l20 80 260 0 20-80q10-90-30-120-80-15-120 0-40-15-120 0z",
+          "fill": "#1A1410FF",
+          "width": 320,
+          "height": 200
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 4,
+          "id": "byo4t",
+          "x": 720,
+          "y": 600,
+          "name": "Chair Armrest",
+          "rotation": 5,
+          "fill": "#1A1410FF",
+          "width": 30,
+          "height": 120
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 4,
+          "id": "v2mOF",
+          "x": 1170,
+          "y": 590,
+          "name": "Chair Armrest R",
+          "rotation": -5,
+          "fill": "#1A1410FF",
+          "width": 30,
+          "height": 120
+        },
+        {
+          "type": "rectangle",
+          "id": "xdrIe",
+          "x": 400,
+          "y": 0,
+          "name": "wall",
+          "opacity": 0.15,
+          "fill": "#E8D5B0",
+          "width": 1520,
+          "height": 650
+        },
+        {
+          "type": "frame",
+          "id": "iBJXV",
+          "x": 1100,
+          "y": 80,
+          "name": "poster1",
+          "width": 200,
+          "height": 280,
+          "fill": "#C4960F",
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "nA7Wg",
+              "x": 20,
+              "y": 40,
+              "name": "poster1inner",
+              "fill": "#E8D5B0",
+              "width": 160,
+              "height": 180
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "oNnzW",
+          "x": 1400,
+          "y": 50,
+          "name": "poster2",
+          "width": 180,
+          "height": 250,
+          "fill": "#E8D5B0",
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "6Tgmh",
+              "x": 0,
+              "y": 0,
+              "name": "poster2header",
+              "fill": "#E8720C",
+              "width": 180,
+              "height": 50
+            },
+            {
+              "type": "rectangle",
+              "id": "cMZ5K",
+              "x": 20,
+              "y": 70,
+              "name": "poster2body",
+              "opacity": 0.4,
+              "fill": "#C4960F",
+              "width": 140,
+              "height": 100
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "c8T4o",
+          "x": 1680,
+          "y": 120,
+          "name": "poster3",
+          "width": 140,
+          "height": 200,
+          "fill": "#C4960F",
+          "layout": "none",
+          "children": [
+            {
+              "type": "ellipse",
+              "id": "eqBK0",
+              "x": 30,
+              "y": 50,
+              "name": "poster3shape",
+              "fill": "#1A1410",
+              "width": 80,
+              "height": 80
+            },
+            {
+              "type": "rectangle",
+              "id": "CsFNG",
+              "x": 20,
+              "y": 140,
+              "name": "poster3rect",
+              "opacity": 0.6,
+              "fill": "#E8D5B0",
+              "width": 100,
+              "height": 30
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "MME97",
+          "x": 1350,
+          "y": 30,
+          "name": "signBg",
+          "clip": true,
+          "width": 300,
+          "height": 120,
+          "fill": "#1A1410",
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "NMoTI",
+              "x": 140,
+              "y": -40,
+              "name": "ray1",
+              "opacity": 0.3,
+              "fill": "#C4960F",
+              "width": 8,
+              "height": 200
+            },
+            {
+              "type": "rectangle",
+              "id": "vxFRj",
+              "x": 140,
+              "y": -40,
+              "name": "ray2",
+              "opacity": 0.3,
+              "rotation": 29.999999999999996,
+              "fill": "#C4960F",
+              "width": 8,
+              "height": 200
+            },
+            {
+              "type": "rectangle",
+              "id": "vbIy8",
+              "x": 140,
+              "y": -40,
+              "name": "ray3",
+              "opacity": 0.3,
+              "rotation": 59.99999999999999,
+              "fill": "#C4960F",
+              "width": 8,
+              "height": 200
+            },
+            {
+              "type": "rectangle",
+              "id": "HEta5",
+              "x": 140,
+              "y": -40,
+              "name": "ray4",
+              "opacity": 0.3,
+              "rotation": 90,
+              "fill": "#C4960F",
+              "width": 8,
+              "height": 200
+            },
+            {
+              "type": "rectangle",
+              "id": "b5l6C",
+              "x": 140,
+              "y": -40,
+              "name": "ray5",
+              "opacity": 0.3,
+              "rotation": 119.99999999999999,
+              "fill": "#C4960F",
+              "width": 8,
+              "height": 200
+            },
+            {
+              "type": "rectangle",
+              "id": "I0bau",
+              "x": 140,
+              "y": -40,
+              "name": "ray6",
+              "opacity": 0.3,
+              "rotation": 150,
+              "fill": "#C4960F",
+              "width": 8,
+              "height": 200
+            },
+            {
+              "type": "rectangle",
+              "id": "XDbeh",
+              "x": 140,
+              "y": -40,
+              "name": "ray7",
+              "opacity": 0.25,
+              "rotation": 14.999999999999998,
+              "fill": "#C4960F",
+              "width": 8,
+              "height": 200
+            },
+            {
+              "type": "rectangle",
+              "id": "qioW3",
+              "x": 140,
+              "y": -40,
+              "name": "ray8",
+              "opacity": 0.25,
+              "rotation": 45,
+              "fill": "#C4960F",
+              "width": 8,
+              "height": 200
+            },
+            {
+              "type": "rectangle",
+              "id": "UFNQe",
+              "x": 140,
+              "y": -40,
+              "name": "ray9",
+              "opacity": 0.25,
+              "rotation": 75,
+              "fill": "#C4960F",
+              "width": 8,
+              "height": 200
+            },
+            {
+              "type": "rectangle",
+              "id": "j2Wyg",
+              "x": 140,
+              "y": -40,
+              "name": "ray10",
+              "opacity": 0.25,
+              "rotation": 105.00000000000001,
+              "fill": "#C4960F",
+              "width": 8,
+              "height": 200
+            },
+            {
+              "type": "rectangle",
+              "id": "JA5QJ",
+              "x": 140,
+              "y": -40,
+              "name": "ray11",
+              "opacity": 0.25,
+              "rotation": 135,
+              "fill": "#C4960F",
+              "width": 8,
+              "height": 200
+            },
+            {
+              "type": "rectangle",
+              "id": "jV4ZV",
+              "x": 140,
+              "y": -40,
+              "name": "ray12",
+              "opacity": 0.25,
+              "rotation": 165,
+              "fill": "#C4960F",
+              "width": 8,
+              "height": 200
+            },
+            {
+              "type": "text",
+              "id": "0WQhq",
+              "x": 80,
+              "y": 25,
+              "name": "signText1",
+              "fill": "#E8D5B0",
+              "content": "DESIGN",
+              "fontFamily": "Inter",
+              "fontSize": 32,
+              "fontWeight": "900"
+            },
+            {
+              "type": "text",
+              "id": "5IChJ",
+              "x": 85,
+              "y": 65,
+              "name": "signText2",
+              "fill": "#E8D5B0",
+              "content": "STUDIO",
+              "fontFamily": "Inter",
+              "fontSize": 28,
+              "fontWeight": "900"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "QVMQx",
+          "x": 1500,
+          "y": 300,
+          "name": "person1",
+          "width": 60,
+          "height": 140,
+          "layout": "none",
+          "children": [
+            {
+              "type": "ellipse",
+              "id": "pLmaL",
+              "x": 12,
+              "y": 0,
+              "name": "p1head",
+              "fill": "#2A2520",
+              "width": 36,
+              "height": 36
+            },
+            {
+              "type": "rectangle",
+              "cornerRadius": 6,
+              "id": "YLq4K",
+              "x": 5,
+              "y": 38,
+              "name": "p1body",
+              "fill": "#C4960F",
+              "width": 50,
+              "height": 70
+            },
+            {
+              "type": "rectangle",
+              "cornerRadius": 4,
+              "id": "En0Dm",
+              "x": 10,
+              "y": 108,
+              "name": "p1legs",
+              "fill": "#2A2520",
+              "width": 40,
+              "height": 32
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "DP67w",
+          "x": 1650,
+          "y": 350,
+          "name": "person2",
+          "width": 55,
+          "height": 130,
+          "layout": "none",
+          "children": [
+            {
+              "type": "ellipse",
+              "id": "aOABz",
+              "x": 10,
+              "y": 0,
+              "name": "p2head",
+              "fill": "#2A2520",
+              "width": 34,
+              "height": 34
+            },
+            {
+              "type": "rectangle",
+              "cornerRadius": 6,
+              "id": "9HurL",
+              "x": 3,
+              "y": 36,
+              "name": "p2body",
+              "fill": "#2A2520",
+              "width": 48,
+              "height": 65
+            },
+            {
+              "type": "rectangle",
+              "cornerRadius": 4,
+              "id": "lKWWL",
+              "x": 8,
+              "y": 101,
+              "name": "p2legs",
+              "fill": "#2A2520",
+              "width": 38,
+              "height": 29
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "QJ4gR",
+          "x": 1580,
+          "y": 370,
+          "name": "person3",
+          "width": 50,
+          "height": 120,
+          "layout": "none",
+          "children": [
+            {
+              "type": "ellipse",
+              "id": "WrKQb",
+              "x": 9,
+              "y": 0,
+              "name": "p3head",
+              "fill": "#2A2520",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "type": "rectangle",
+              "cornerRadius": 5,
+              "id": "0Zq45",
+              "x": 2,
+              "y": 34,
+              "name": "p3body",
+              "fill": "#E8720C",
+              "width": 46,
+              "height": 60
+            },
+            {
+              "type": "rectangle",
+              "cornerRadius": 3,
+              "id": "3oVE6",
+              "x": 7,
+              "y": 94,
+              "name": "p3legs",
+              "fill": "#2A2520",
+              "width": 36,
+              "height": 26
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "JAbNM",
+          "x": 1100,
+          "y": 280,
+          "name": "monitor",
+          "rotation": 3.0000000000000004,
+          "width": 160,
+          "height": 120,
+          "fill": "#2A2520",
+          "cornerRadius": 6,
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "cornerRadius": 3,
+              "id": "XFVA2",
+              "x": 10,
+              "y": 8,
+              "name": "monScreen",
+              "fill": "#1A1410",
+              "width": 140,
+              "height": 85
+            }
+          ]
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 2,
+          "id": "v2NrD",
+          "x": 1155,
+          "y": 398,
+          "name": "monStand",
+          "rotation": 3.0000000000000004,
+          "fill": "#2A2520",
+          "width": 50,
+          "height": 20
+        },
+        {
+          "type": "rectangle",
+          "id": "nLbUp",
+          "x": 80,
+          "y": 120,
+          "name": "monitor-back",
+          "rotation": -10,
+          "fill": "#2A2520",
+          "width": 500,
+          "height": 500
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 2,
+          "id": "9QYP4",
+          "x": 1135,
+          "y": 415,
+          "name": "monBase",
+          "rotation": 3.0000000000000004,
+          "fill": "#2A2520",
+          "width": 90,
+          "height": 8
+        },
+        {
+          "type": "rectangle",
+          "id": "qM2tb",
+          "x": 565,
+          "y": 100,
+          "name": "monitor-bezel-edge",
+          "rotation": -10,
+          "fill": "#C4960F",
+          "width": 18,
+          "height": 480
+        },
+        {
+          "type": "rectangle",
+          "id": "OhRe9",
+          "x": 250,
+          "y": 600,
+          "name": "monitor-stand",
+          "fill": "#2A2520",
+          "width": 120,
+          "height": 60
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 4,
+          "id": "HeeI9",
+          "x": 220,
+          "y": 650,
+          "name": "monitor-stand-base",
+          "fill": "#2A2520",
+          "width": 180,
+          "height": 20
+        },
+        {
+          "type": "rectangle",
+          "id": "1CDGh",
+          "x": 150,
+          "y": 220,
+          "name": "deco-panel-bg",
+          "rotation": -10,
+          "fill": "#C4960F",
+          "width": 250,
+          "height": 300
+        },
+        {
+          "type": "path",
+          "id": "XYLAe",
+          "x": 220,
+          "y": 260,
+          "name": "cursor-icon",
+          "rotation": -10,
+          "geometry": "M10 0l80 50-40 0 20 60-20 10-20-60-30 20z",
+          "fill": "#E8D5B0",
+          "width": 100,
+          "height": 120
+        },
+        {
+          "type": "rectangle",
+          "id": "NiQ4g",
+          "x": 185,
+          "y": 410,
+          "name": "deco-stripe1",
+          "rotation": -10,
+          "fill": "#E8D5B0",
+          "width": 180,
+          "height": 8
+        },
+        {
+          "type": "ellipse",
+          "id": "m4VM8",
+          "x": 920,
+          "y": 45,
+          "name": "g1",
+          "opacity": 0.06,
+          "fill": "#E8D5B0",
+          "width": 4,
+          "height": 4
+        },
+        {
+          "type": "rectangle",
+          "id": "QFCLR",
+          "x": 190,
+          "y": 430,
+          "name": "deco-stripe2",
+          "rotation": -10,
+          "fill": "#E8D5B0",
+          "width": 180,
+          "height": 8
+        },
+        {
+          "type": "ellipse",
+          "id": "9z5CG",
+          "x": 1050,
+          "y": 120,
+          "name": "g2",
+          "opacity": 0.08,
+          "fill": "#E8D5B0",
+          "width": 3,
+          "height": 3
+        },
+        {
+          "type": "rectangle",
+          "id": "8GhT2",
+          "x": 195,
+          "y": 450,
+          "name": "deco-stripe3",
+          "rotation": -10,
+          "fill": "#E8D5B0",
+          "width": 180,
+          "height": 8
+        },
+        {
+          "type": "rectangle",
+          "id": "YMDAA",
+          "x": 200,
+          "y": 470,
+          "name": "deco-stripe4",
+          "rotation": -10,
+          "fill": "#E8D5B0",
+          "width": 180,
+          "height": 8
+        },
+        {
+          "type": "ellipse",
+          "id": "SMKEw",
+          "x": 1200,
+          "y": 30,
+          "name": "g3",
+          "opacity": 0.05,
+          "fill": "#E8D5B0",
+          "width": 5,
+          "height": 5
+        },
+        {
+          "type": "ellipse",
+          "id": "M3SOP",
+          "x": 1340,
+          "y": 180,
+          "name": "g4",
+          "opacity": 0.07,
+          "fill": "#E8D5B0",
+          "width": 3,
+          "height": 3
+        },
+        {
+          "type": "ellipse",
+          "id": "R8j5e",
+          "x": 1480,
+          "y": 70,
+          "name": "g5",
+          "opacity": 0.09,
+          "fill": "#E8D5B0",
+          "width": 4,
+          "height": 4
+        },
+        {
+          "type": "ellipse",
+          "id": "Reiau",
+          "x": 1600,
+          "y": 200,
+          "name": "g6",
+          "opacity": 0.06,
+          "fill": "#E8D5B0",
+          "width": 3,
+          "height": 3
+        },
+        {
+          "type": "ellipse",
+          "id": "Z7f7w",
+          "x": 1750,
+          "y": 90,
+          "name": "g7",
+          "opacity": 0.04,
+          "fill": "#E8D5B0",
+          "width": 5,
+          "height": 5
+        },
+        {
+          "type": "ellipse",
+          "id": "DpZID",
+          "x": 1850,
+          "y": 160,
+          "name": "g8",
+          "opacity": 0.07,
+          "fill": "#E8D5B0",
+          "width": 4,
+          "height": 4
+        },
+        {
+          "type": "ellipse",
+          "id": "13All",
+          "x": 980,
+          "y": 250,
+          "name": "g9",
+          "opacity": 0.08,
+          "fill": "#E8D5B0",
+          "width": 3,
+          "height": 3
+        },
+        {
+          "type": "ellipse",
+          "id": "XqkPV",
+          "x": 1150,
+          "y": 400,
+          "name": "g10",
+          "opacity": 0.05,
+          "fill": "#E8D5B0",
+          "width": 4,
+          "height": 4
+        },
+        {
+          "type": "ellipse",
+          "id": "ZluPl",
+          "x": 1300,
+          "y": 320,
+          "name": "g11",
+          "opacity": 0.06,
+          "fill": "#E8D5B0",
+          "width": 5,
+          "height": 5
+        },
+        {
+          "type": "ellipse",
+          "id": "izZQE",
+          "x": 1450,
+          "y": 480,
+          "name": "g12",
+          "opacity": 0.07,
+          "fill": "#E8D5B0",
+          "width": 3,
+          "height": 3
+        },
+        {
+          "type": "ellipse",
+          "id": "Wv4lb",
+          "x": 1550,
+          "y": 100,
+          "name": "g13",
+          "opacity": 0.09,
+          "fill": "#E8D5B0",
+          "width": 4,
+          "height": 4
+        },
+        {
+          "type": "path",
+          "id": "J2cuY",
+          "x": 750,
+          "y": 340,
+          "name": "Torso Back",
+          "geometry": "M100 0q-100 20-90 120l-10 340 440 0-10-340q10-100-90-120-80-15-120 0-40-15-120 0z",
+          "fill": "#2A2520FF",
+          "width": 440,
+          "height": 460
+        },
+        {
+          "type": "ellipse",
+          "id": "qpgfV",
+          "x": 1700,
+          "y": 350,
+          "name": "g14",
+          "opacity": 0.05,
+          "fill": "#E8D5B0",
+          "width": 3,
+          "height": 3
+        },
+        {
+          "type": "ellipse",
+          "id": "9WB0v",
+          "x": 720,
+          "y": 370,
+          "name": "Left Shoulder",
+          "fill": "#2A2520FF",
+          "width": 110,
+          "height": 90
+        },
+        {
+          "type": "ellipse",
+          "id": "bG5Ce",
+          "x": 1110,
+          "y": 360,
+          "name": "Right Shoulder",
+          "fill": "#2A2520FF",
+          "width": 120,
+          "height": 95
+        },
+        {
+          "type": "ellipse",
+          "id": "7Wxla",
+          "x": 1820,
+          "y": 270,
+          "name": "g15",
+          "opacity": 0.06,
+          "fill": "#E8D5B0",
+          "width": 5,
+          "height": 5
+        },
+        {
+          "type": "path",
+          "id": "SnjOY",
+          "x": 880,
+          "y": 330,
+          "name": "Shirt Collar",
+          "geometry": "M0 5q30-5 70 25 40-30 70-25l-10 35q-30-15-60-5-30-10-60 5z",
+          "fill": "#C4960FFF",
+          "width": 140,
+          "height": 40
+        },
+        {
+          "type": "ellipse",
+          "id": "ZcJCs",
+          "x": 500,
+          "y": 150,
+          "name": "g16",
+          "opacity": 0.07,
+          "fill": "#E8D5B0",
+          "width": 4,
+          "height": 4
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 4,
+          "id": "1H125",
+          "x": 910,
+          "y": 280,
+          "name": "Neck",
+          "fill": "#F0B8A0FF",
+          "width": 70,
+          "height": 70
+        },
+        {
+          "type": "ellipse",
+          "id": "jpeF5",
+          "x": 895,
+          "y": 320,
+          "name": "Neck Shadow",
+          "fill": "#18120E80",
+          "width": 100,
+          "height": 30
+        },
+        {
+          "type": "ellipse",
+          "id": "mJA6l",
+          "x": 620,
+          "y": 80,
+          "name": "g17",
+          "opacity": 0.08,
+          "fill": "#E8D5B0",
+          "width": 3,
+          "height": 3
+        },
+        {
+          "type": "ellipse",
+          "id": "EoPv9",
+          "x": 870,
+          "y": 140,
+          "name": "Head",
+          "fill": "#F0B8A0FF",
+          "width": 160,
+          "height": 170
+        },
+        {
+          "type": "ellipse",
+          "id": "KsH1A",
+          "x": 858,
+          "y": 220,
+          "name": "Left Ear",
+          "fill": "#DDA090FF",
+          "width": 24,
+          "height": 30
+        },
+        {
+          "type": "ellipse",
+          "id": "lDPyy",
+          "x": 500,
+          "y": 200,
+          "name": "Screen Light on Figure",
+          "fill": {
+            "type": "gradient",
+            "gradientType": "radial",
+            "enabled": true,
+            "rotation": 0,
+            "size": {
+              "width": 1,
+              "height": 1
+            },
+            "colors": [
+              {
+                "color": "#E8D5B010",
+                "position": 0
+              },
+              {
+                "color": "#E8D5B000",
+                "position": 1
+              }
+            ]
+          },
+          "width": 600,
+          "height": 500
+        },
+        {
+          "type": "ellipse",
+          "id": "JZXaC",
+          "x": 750,
+          "y": 300,
+          "name": "g18",
+          "opacity": 0.05,
+          "fill": "#E8D5B0",
+          "width": 4,
+          "height": 4
+        },
+        {
+          "type": "ellipse",
+          "id": "5CN60",
+          "x": 1018,
+          "y": 215,
+          "name": "Right Ear",
+          "fill": "#DDA090FF",
+          "width": 24,
+          "height": 30
+        },
+        {
+          "type": "ellipse",
+          "id": "tiTOF",
+          "x": 870,
+          "y": 190,
+          "name": "g19",
+          "opacity": 0.04,
+          "fill": "#E8D5B0",
+          "width": 5,
+          "height": 5
+        },
+        {
+          "type": "path",
+          "id": "nuQlQ",
+          "x": 860,
+          "y": 120,
+          "name": "Hair Back",
+          "geometry": "M10 180q-15-120 20-160 40-30 60-15 40-20 70 10 35 35 25 105 3 30-15 60l-10 20q-40-30-70-30-30 0-70 30z",
+          "fill": "#C4960FFF",
+          "width": 180,
+          "height": 200
+        },
+        {
+          "type": "path",
+          "id": "Cd1yq",
+          "x": 1000,
+          "y": 160,
+          "name": "Hair Side Right",
+          "geometry": "M0 0q30 10 50 50 15 50-10 90-15-10-25-40-10-40-15-100z",
+          "fill": "#C4960FFF",
+          "width": 60,
+          "height": 140
+        },
+        {
+          "type": "rectangle",
+          "id": "p3bpL",
+          "x": -20,
+          "y": 680,
+          "name": "desk-surface",
+          "rotation": -1.5000000000000002,
+          "fill": "#2A2520",
+          "width": 1960,
+          "height": 50
+        },
+        {
+          "type": "path",
+          "id": "FlvMZ",
+          "x": 850,
+          "y": 165,
+          "name": "Hair Side Left",
+          "geometry": "M50 0q-30 10-45 50-15 50 10 80 15-10 23-40 10-35 12-90z",
+          "fill": "#C4960FFF",
+          "width": 50,
+          "height": 130
+        },
+        {
+          "type": "ellipse",
+          "id": "hZpsk",
+          "x": 1000,
+          "y": 500,
+          "name": "g20",
+          "opacity": 0.06,
+          "fill": "#E8D5B0",
+          "width": 3,
+          "height": 3
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 2,
+          "id": "CUeB1",
+          "x": 780,
+          "y": 450,
+          "name": "Shirt Stripe Upper",
+          "fill": "#C4960F40",
+          "width": 380,
+          "height": 5
+        },
+        {
+          "type": "rectangle",
+          "id": "KFLgh",
+          "x": -20,
+          "y": 676,
+          "name": "desk-edge-strip",
+          "rotation": -1.5000000000000002,
+          "fill": "#C4960F",
+          "width": 1960,
+          "height": 7
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 2,
+          "id": "T4xez",
+          "x": 770,
+          "y": 520,
+          "name": "Shirt Stripe Lower",
+          "fill": "#C4960F30",
+          "width": 400,
+          "height": 5
+        },
+        {
+          "type": "path",
+          "id": "dIKoR",
+          "x": 880,
+          "y": 460,
+          "name": "Shirt Back Graphic - Triangle",
+          "geometry": "M70 0l-70 120 140 0z",
+          "fill": "#C4960F25",
+          "width": 140,
+          "height": 120
+        },
+        {
+          "type": "path",
+          "id": "xybUz",
+          "x": 680,
+          "y": 400,
+          "name": "Left Sleeve",
+          "geometry": "M80 0q-50 10-80 60l10 70 70-20q30-50 0-110z",
+          "fill": "#2A2520FF",
+          "width": 120,
+          "height": 130
+        },
+        {
+          "type": "ellipse",
+          "id": "PJ8cl",
+          "x": 1250,
+          "y": 550,
+          "name": "g21",
+          "opacity": 0.07,
+          "fill": "#E8D5B0",
+          "width": 4,
+          "height": 4
+        },
+        {
+          "type": "path",
+          "id": "yBAkU",
+          "x": 1140,
+          "y": 390,
+          "name": "Right Sleeve",
+          "geometry": "M40 0q50 10 80 60l-10 70-70-20q-30-50 0-110z",
+          "fill": "#2A2520FF",
+          "width": 120,
+          "height": 130
+        },
+        {
+          "type": "ellipse",
+          "id": "9mx2m",
+          "x": 1400,
+          "y": 420,
+          "name": "g22",
+          "opacity": 0.08,
+          "fill": "#E8D5B0",
+          "width": 3,
+          "height": 3
+        },
+        {
+          "type": "path",
+          "id": "vBhES",
+          "x": 680,
+          "y": 510,
+          "name": "Sleeve Trim L",
+          "geometry": "M0 0l90 0-5 20-80 0z",
+          "fill": "#C4960FFF",
+          "width": 90,
+          "height": 20
+        },
+        {
+          "type": "rectangle",
+          "id": "wWVH3",
+          "x": 0,
+          "y": 725,
+          "name": "desk-front-panel",
+          "fill": "#221E1A",
+          "width": 1920,
+          "height": 360
+        },
+        {
+          "type": "path",
+          "id": "DJtS3",
+          "x": 1170,
+          "y": 500,
+          "name": "Sleeve Trim R",
+          "geometry": "M0 0l90 0-5 20-80 0z",
+          "fill": "#C4960FFF",
+          "width": 90,
+          "height": 20
+        },
+        {
+          "type": "ellipse",
+          "id": "J0sW5",
+          "x": 1900,
+          "y": 50,
+          "name": "g23",
+          "opacity": 0.05,
+          "fill": "#E8D5B0",
+          "width": 4,
+          "height": 4
+        },
+        {
+          "type": "path",
+          "id": "otzRl",
+          "x": 600,
+          "y": 520,
+          "name": "Left Forearm",
+          "geometry": "M80 0q-50 30-80 100l20 120 60-20 50-120q-10-50-50-80z",
+          "fill": "#E8B8A0FF",
+          "width": 130,
+          "height": 220
+        },
+        {
+          "type": "path",
+          "id": "5gJcK",
+          "x": 1180,
+          "y": 510,
+          "name": "Right Forearm",
+          "geometry": "M50 0q50 30 80 100l-20 130-60-20-50-130q10-50 50-80z",
+          "fill": "#E8B8A0FF",
+          "width": 130,
+          "height": 230
+        },
+        {
+          "type": "path",
+          "id": "0GBAq",
+          "x": 600,
+          "y": 690,
+          "name": "Left Hand on keyboard",
+          "geometry": "M10 0q-15 25-5 50l15 20 70-10q10-25-5-50-25-15-75-10z",
+          "fill": "#F0B8A0FF",
+          "width": 100,
+          "height": 70
+        },
+        {
+          "type": "path",
+          "id": "lhEUX",
+          "x": 1180,
+          "y": 690,
+          "name": "Right Hand on mouse",
+          "geometry": "M80 0q15 25 5 50l-15 15-65-10q-10-25 5-47 25-13 70-8z",
+          "fill": "#F0B8A0FF",
+          "width": 90,
+          "height": 65
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 8,
+          "id": "PF6ib",
+          "x": 700,
+          "y": 735,
+          "name": "keyboard",
+          "fill": "#2A2520",
+          "width": 300,
+          "height": 80
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 2,
+          "id": "Q3JeS",
+          "x": 720,
+          "y": 748,
+          "name": "key-row1",
+          "opacity": 0.15,
+          "fill": "#E8D5B0",
+          "width": 260,
+          "height": 12
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 2,
+          "id": "Mumed",
+          "x": 720,
+          "y": 765,
+          "name": "key-row2",
+          "opacity": 0.15,
+          "fill": "#E8D5B0",
+          "width": 260,
+          "height": 12
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 2,
+          "id": "Uhnzh",
+          "x": 720,
+          "y": 782,
+          "name": "key-row3",
+          "opacity": 0.15,
+          "fill": "#E8D5B0",
+          "width": 260,
+          "height": 12
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 2,
+          "id": "sYChs",
+          "x": 740,
+          "y": 799,
+          "name": "key-row4",
+          "opacity": 0.12,
+          "fill": "#E8D5B0",
+          "width": 220,
+          "height": 10
+        },
+        {
+          "type": "ellipse",
+          "id": "qpGaO",
+          "x": 1080,
+          "y": 740,
+          "name": "mouse",
+          "fill": "#2A2520",
+          "width": 40,
+          "height": 55
+        },
+        {
+          "type": "ellipse",
+          "id": "ER1Bc",
+          "x": 1095,
+          "y": 748,
+          "name": "mouse-wheel",
+          "opacity": 0.4,
+          "fill": "#E8D5B0",
+          "width": 10,
+          "height": 14
+        },
+        {
+          "type": "rectangle",
+          "cornerRadius": 4,
+          "id": "TthCO",
+          "x": 1250,
+          "y": 715,
+          "name": "mug-body",
+          "fill": "#C4960F",
+          "width": 40,
+          "height": 50
+        },
+        {
+          "type": "ellipse",
+          "id": "MEzRv",
+          "x": 1245,
+          "y": 708,
+          "name": "mug-rim",
+          "fill": "#C4960F",
+          "width": 50,
+          "height": 18
+        },
+        {
+          "type": "ellipse",
+          "id": "Ln0fR",
+          "x": 1250,
+          "y": 711,
+          "name": "mug-rim-inner",
+          "fill": "#2A2520",
+          "width": 40,
+          "height": 12
+        },
+        {
+          "type": "rectangle",
+          "id": "65QZ3",
+          "x": -100,
+          "y": 200,
+          "name": "diagonal-line1",
+          "opacity": 0.7,
+          "rotation": 20,
+          "fill": "#1A1410",
+          "width": 50,
+          "height": 1200
+        },
+        {
+          "type": "rectangle",
+          "id": "K2mY0",
+          "x": 500,
+          "y": 500,
+          "name": "diagonal-line2",
+          "opacity": 0.5,
+          "rotation": -25,
+          "fill": "#1A1410",
+          "width": 35,
+          "height": 1000
+        },
+        {
+          "type": "rectangle",
+          "id": "R2Zv6",
+          "x": -50,
+          "y": 400,
+          "name": "Diag Cut Strong 1",
+          "rotation": 22,
+          "fill": "#1A1410FF",
+          "width": 50,
+          "height": 1000
+        },
+        {
+          "type": "rectangle",
+          "id": "vV2lw",
+          "x": 1750,
+          "y": 300,
+          "name": "Diag Cut Strong 2",
+          "rotation": -18,
+          "fill": "#1A1410FF",
+          "width": 40,
+          "height": 1000
+        },
+        {
+          "type": "rectangle",
+          "id": "SmPzW",
+          "x": 0,
+          "y": 0,
+          "name": "Vignette Overlay",
+          "fill": {
+            "type": "gradient",
+            "gradientType": "radial",
+            "enabled": true,
+            "rotation": 0,
+            "size": {
+              "width": 1.5,
+              "height": 1.5
+            },
+            "colors": [
+              {
+                "color": "#1A141000",
+                "position": 0.35
+              },
+              {
+                "color": "#1A141050",
+                "position": 1
+              }
+            ],
+            "center": {
+              "x": 0.45,
+              "y": 0.35
+            }
+          },
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "type": "rectangle",
+          "id": "lny7n",
+          "x": 1600,
+          "y": -100,
+          "name": "diagonal-line3",
+          "opacity": 0.4,
+          "rotation": 14.999999999999998,
+          "fill": "#1A1410",
+          "width": 40,
+          "height": 900
+        },
+        {
+          "type": "text",
+          "id": "E1NSM",
+          "x": 540,
+          "y": 280,
+          "name": "Star 1",
+          "fill": "#C4960FFF",
+          "content": "✦",
+          "fontFamily": "Inter",
+          "fontSize": 16,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "text",
+          "id": "ngXnU",
+          "x": 1400,
+          "y": 500,
+          "name": "Star 2",
+          "fill": "#E8D5B060",
+          "content": "✦",
+          "fontFamily": "Inter",
+          "fontSize": 12,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "text",
+          "id": "1pGJt",
+          "x": 380,
+          "y": 550,
+          "name": "Star 3",
+          "fill": "#C4960F80",
+          "content": "✦",
+          "fontFamily": "Inter",
+          "fontSize": 10,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "ellipse",
+          "id": "fdbVK",
+          "x": 300,
+          "y": 200,
+          "name": "grain1",
+          "fill": "#E8D5B010",
+          "width": 4,
+          "height": 4
+        },
+        {
+          "type": "ellipse",
+          "id": "9NoUl",
+          "x": 1500,
+          "y": 150,
+          "name": "grain2",
+          "fill": "#E8D5B008",
+          "width": 3,
+          "height": 3
+        },
+        {
+          "type": "ellipse",
+          "id": "MapiR",
+          "x": 800,
+          "y": 100,
+          "name": "grain3",
+          "fill": "#E8D5B006",
+          "width": 4,
+          "height": 4
+        },
+        {
+          "type": "ellipse",
+          "id": "7AiTW",
+          "x": 1200,
+          "y": 600,
+          "name": "grain4",
+          "fill": "#E8D5B008",
+          "width": 3,
+          "height": 3
+        },
+        {
+          "type": "ellipse",
+          "id": "8IYtq",
+          "x": 500,
+          "y": 800,
+          "name": "grain5",
+          "fill": "#E8D5B006",
+          "width": 4,
+          "height": 4
+        },
+        {
+          "type": "ellipse",
+          "id": "2e9o4",
+          "x": 1600,
+          "y": 400,
+          "name": "grain6",
+          "fill": "#E8D5B008",
+          "width": 3,
+          "height": 3
+        },
+        {
+          "type": "rectangle",
+          "id": "F7ecG",
+          "x": 0,
+          "y": 1020,
+          "name": "Brand Strip Bottom",
+          "fill": "#15120EFF",
+          "width": 1920,
+          "height": 60
+        },
+        {
+          "type": "path",
+          "id": "jz3Xv",
+          "x": 50,
+          "y": 1030,
+          "name": "Brand Triangle",
+          "geometry": "M0 30l15-30 15 30z",
+          "fill": "#C4960FFF",
+          "width": 30,
+          "height": 30
+        },
+        {
+          "type": "text",
+          "id": "3R8k9",
+          "x": 90,
+          "y": 1032,
+          "name": "Brand Name",
+          "fill": "#E8D5B0FF",
+          "content": "pencil.dev → Figma",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "700"
+        },
+        {
+          "type": "text",
+          "id": "PnVle",
+          "x": 1680,
+          "y": 1038,
+          "name": "Brand Tag",
+          "fill": "#C4960F80",
+          "content": "FIGMA PLUGIN",
+          "fontFamily": "Geist Mono",
+          "fontSize": 12,
+          "fontWeight": "500",
+          "letterSpacing": 4
+        },
+        {
+          "type": "ellipse",
+          "id": "2LvpL",
+          "x": 200,
+          "y": 900,
+          "name": "grain7",
+          "fill": "#E8D5B006",
+          "width": 4,
+          "height": 4
+        },
+        {
+          "type": "ellipse",
+          "id": "V3tvH",
+          "x": 1700,
+          "y": 800,
+          "name": "grain8",
+          "fill": "#E8D5B008",
+          "width": 3,
+          "height": 3
+        },
+        {
+          "type": "ellipse",
+          "id": "XmwAg",
+          "x": 615,
+          "y": 685,
+          "name": "Finger L1",
+          "rotation": 10,
+          "fill": "#E8B8A0FF",
+          "width": 14,
+          "height": 28
+        },
+        {
+          "type": "ellipse",
+          "id": "zvPeQ",
+          "x": 635,
+          "y": 682,
+          "name": "Finger L2",
+          "rotation": 5,
+          "fill": "#E8B8A0FF",
+          "width": 14,
+          "height": 30
+        },
+        {
+          "type": "ellipse",
+          "id": "dFLAQ",
+          "x": 655,
+          "y": 683,
+          "name": "Finger L3",
+          "fill": "#E8B8A0FF",
+          "width": 14,
+          "height": 28
+        },
+        {
+          "type": "ellipse",
+          "id": "Ijyjs",
+          "x": 675,
+          "y": 685,
+          "name": "Finger L4",
+          "rotation": -5,
+          "fill": "#E8B8A0FF",
+          "width": 12,
+          "height": 25
+        },
+        {
+          "type": "ellipse",
+          "id": "HtMs1",
+          "x": 1195,
+          "y": 688,
+          "name": "Finger R1",
+          "rotation": -5,
+          "fill": "#E8B8A0FF",
+          "width": 14,
+          "height": 28
+        },
+        {
+          "type": "ellipse",
+          "id": "ziKtG",
+          "x": 1215,
+          "y": 685,
+          "name": "Finger R2",
+          "fill": "#E8B8A0FF",
+          "width": 14,
+          "height": 28
+        },
+        {
+          "type": "ellipse",
+          "id": "1t4X9",
+          "x": 1235,
+          "y": 688,
+          "name": "Finger R3",
+          "rotation": 5,
+          "fill": "#E8B8A0FF",
+          "width": 12,
+          "height": 25
+        },
+        {
+          "type": "path",
+          "id": "4p2eJ",
+          "x": 870,
+          "y": 145,
+          "name": "Hair Light Edge",
+          "geometry": "M40 0q-30 20-40 60-5 40 10 60 10-30 15-60 5-30 15-60z",
+          "fill": "#D4A81FFF",
+          "width": 50,
+          "height": 120
+        }
+      ]
+    },
+    {
+      "type": "path",
+      "id": "izTPi",
+      "x": 4731,
+      "y": 710,
+      "name": "ptri1",
+      "opacity": 0.9,
+      "rotation": -180,
+      "geometry": "M0 150l75-150 75 150z",
+      "fill": {
+        "type": "gradient",
+        "gradientType": "linear",
+        "enabled": true,
+        "rotation": 180,
+        "size": {
+          "height": 1
+        },
+        "colors": [
+          {
+            "color": "#FFA600FF",
+            "position": 0
+          },
+          {
+            "color": "#FFD900FF",
+            "position": 1
+          }
+        ]
+      },
+      "width": 150,
+      "height": 150
+    },
+    {
+      "type": "frame",
+      "id": "g8spV",
+      "x": 4885,
+      "y": 560,
+      "name": "pencilLogoGroup",
+      "width": 150,
+      "height": 150,
+      "layout": "none",
+      "children": [
+        {
+          "type": "path",
+          "id": "57G22",
+          "x": 0,
+          "y": 0,
+          "name": "ptri2",
+          "opacity": 0.6,
+          "geometry": "M30 150l45-100 45 100z",
+          "fill": {
+            "type": "gradient",
+            "gradientType": "linear",
+            "enabled": true,
+            "rotation": 180,
+            "size": {
+              "height": 1
+            },
+            "colors": [
+              {
+                "color": "#CCCCCCFF",
+                "position": 0
+              },
+              {
+                "color": "#FFFFFFFF",
+                "position": 1
+              }
+            ]
+          },
+          "width": 150,
+          "height": 150
+        }
+      ]
+    }
+  ]
+}
