@@ -4,7 +4,7 @@
     {
       "type": "frame",
       "id": "9ifZu",
-      "x": 0,
+      "x": -1,
       "y": 0,
       "name": "Plugin Icon 128x128",
       "width": 128,
@@ -558,7 +558,8 @@
           "fill": "#71717AFF",
           "content": "Import .pen design files directly into Figma",
           "fontFamily": "Inter",
-          "fontSize": 24
+          "fontSize": 24,
+          "fontWeight": "normal"
         },
         {
           "type": "ellipse",
@@ -690,7 +691,8 @@
           "fill": "#A855F7FF",
           "content": "+",
           "fontFamily": "Geist Mono",
-          "fontSize": 18
+          "fontSize": 18,
+          "fontWeight": "normal"
         },
         {
           "type": "text",
@@ -702,7 +704,8 @@
           "fill": "#A855F7FF",
           "content": "+",
           "fontFamily": "Geist Mono",
-          "fontSize": 18
+          "fontSize": 18,
+          "fontWeight": "normal"
         },
         {
           "type": "text",
@@ -714,7 +717,8 @@
           "fill": "#A855F7FF",
           "content": "+",
           "fontFamily": "Geist Mono",
-          "fontSize": 18
+          "fontSize": 18,
+          "fontWeight": "normal"
         },
         {
           "type": "text",
@@ -726,337 +730,8 @@
           "fill": "#A855F7FF",
           "content": "+",
           "fontFamily": "Geist Mono",
-          "fontSize": 18
-        }
-      ]
-    },
-    {
-      "type": "frame",
-      "id": "PAP2M",
-      "x": 2260,
-      "y": 0,
-      "name": "Plugin Thumbnail 1920x1080",
-      "width": 1920,
-      "height": 1080,
-      "fill": {
-        "type": "gradient",
-        "gradientType": "radial",
-        "enabled": true,
-        "rotation": 0,
-        "size": {
-          "width": 1.2,
-          "height": 1.2
-        },
-        "colors": [
-          {
-            "color": "#1A1A2EFF",
-            "position": 0
-          },
-          {
-            "color": "#0A0A0AFF",
-            "position": 1
-          }
-        ],
-        "center": {
-          "y": 0.45
-        }
-      },
-      "layout": "vertical",
-      "gap": 48,
-      "justifyContent": "center",
-      "alignItems": "center",
-      "children": [
-        {
-          "type": "text",
-          "id": "p5aPn",
-          "name": "titleText",
-          "fill": "#FFFFFFFF",
-          "content": "pencil.dev  →  Figma",
-          "fontFamily": "Inter",
-          "fontSize": 52,
-          "fontWeight": "700",
-          "letterSpacing": -0.5
-        },
-        {
-          "type": "text",
-          "id": "BePoa",
-          "name": "subtitleText",
-          "fill": "#71717AFF",
-          "content": "Import .pen design files directly into Figma",
-          "fontFamily": "Inter",
-          "fontSize": 24
-        },
-        {
-          "type": "rectangle",
-          "cornerRadius": 1,
-          "id": "7HuAz",
-          "layoutPosition": "absolute",
-          "x": 760,
-          "y": 320,
-          "name": "topAccent",
-          "fill": {
-            "type": "gradient",
-            "gradientType": "linear",
-            "enabled": true,
-            "rotation": 0,
-            "size": {
-              "height": 1
-            },
-            "colors": [
-              {
-                "color": "#FFA60000",
-                "position": 0
-              },
-              {
-                "color": "#FFA600FF",
-                "position": 0.3
-              },
-              {
-                "color": "#A259FFFF",
-                "position": 0.7
-              },
-              {
-                "color": "#A259FF00",
-                "position": 1
-              }
-            ]
-          },
-          "width": 400,
-          "height": 2
-        },
-        {
-          "type": "rectangle",
-          "cornerRadius": 1,
-          "id": "WLaG8",
-          "layoutPosition": "absolute",
-          "x": 760,
-          "y": 740,
-          "name": "bottomAccent",
-          "fill": {
-            "type": "gradient",
-            "gradientType": "linear",
-            "enabled": true,
-            "rotation": 0,
-            "size": {
-              "height": 1
-            },
-            "colors": [
-              {
-                "color": "#FFA60000",
-                "position": 0
-              },
-              {
-                "color": "#FFA600FF",
-                "position": 0.3
-              },
-              {
-                "color": "#A259FFFF",
-                "position": 0.7
-              },
-              {
-                "color": "#A259FF00",
-                "position": 1
-              }
-            ]
-          },
-          "width": 400,
-          "height": 2
-        },
-        {
-          "type": "text",
-          "id": "x9wLQ",
-          "layoutPosition": "absolute",
-          "x": 855,
-          "y": 780,
-          "name": "tagText",
-          "fill": "#A855F7FF",
-          "content": "FIGMA PLUGIN",
-          "fontFamily": "Geist Mono",
-          "fontSize": 13,
-          "fontWeight": "500",
-          "letterSpacing": 4
-        },
-        {
-          "type": "text",
-          "id": "92IMI",
-          "layoutPosition": "absolute",
-          "x": 740,
-          "y": 315,
-          "name": "plus1",
-          "fill": "#A855F7FF",
-          "content": "+",
-          "fontFamily": "Geist Mono",
-          "fontSize": 18
-        },
-        {
-          "type": "text",
-          "id": "Atwk4",
-          "layoutPosition": "absolute",
-          "x": 1168,
-          "y": 315,
-          "name": "plus2",
-          "fill": "#A855F7FF",
-          "content": "+",
-          "fontFamily": "Geist Mono",
-          "fontSize": 18
-        },
-        {
-          "type": "text",
-          "id": "haCnx",
-          "layoutPosition": "absolute",
-          "x": 740,
-          "y": 730,
-          "name": "plus3",
-          "fill": "#A855F7FF",
-          "content": "+",
-          "fontFamily": "Geist Mono",
-          "fontSize": 18
-        },
-        {
-          "type": "text",
-          "id": "v9LDv",
-          "layoutPosition": "absolute",
-          "x": 1168,
-          "y": 730,
-          "name": "plus4",
-          "fill": "#A855F7FF",
-          "content": "+",
-          "fontFamily": "Geist Mono",
-          "fontSize": 18
-        },
-        {
-          "type": "rectangle",
-          "id": "aYvYx",
-          "fill": "#CCCCCC",
-          "width": 169,
-          "height": 24
-        },
-        {
-          "type": "frame",
-          "id": "y5iqp",
-          "name": "figmaGroup",
-          "width": 108,
-          "height": 156,
-          "layout": "none",
-          "children": [
-            {
-              "type": "rectangle",
-              "cornerRadius": [
-                24,
-                4,
-                4,
-                24
-              ],
-              "id": "z3tsR",
-              "x": 0,
-              "y": 0,
-              "name": "ftl",
-              "fill": "#F24E1EFF",
-              "width": 48,
-              "height": 48
-            },
-            {
-              "type": "rectangle",
-              "cornerRadius": [
-                4,
-                24,
-                24,
-                4
-              ],
-              "id": "4GEWi",
-              "x": 60,
-              "y": 0,
-              "name": "ftr",
-              "fill": "#FF7262FF",
-              "width": 48,
-              "height": 48
-            },
-            {
-              "type": "rectangle",
-              "cornerRadius": [
-                24,
-                4,
-                4,
-                24
-              ],
-              "id": "ESKA1",
-              "x": 0,
-              "y": 54,
-              "name": "fml",
-              "fill": "#A259FFFF",
-              "width": 48,
-              "height": 48
-            },
-            {
-              "type": "ellipse",
-              "id": "R7q4P",
-              "x": 60,
-              "y": 54,
-              "name": "fmr",
-              "fill": "#1ABCFEFF",
-              "width": 48,
-              "height": 48
-            },
-            {
-              "type": "ellipse",
-              "id": "dSTRu",
-              "x": 0,
-              "y": 108,
-              "name": "fbl",
-              "fill": "#0ACF83FF",
-              "width": 48,
-              "height": 48
-            }
-          ]
-        },
-        {
-          "type": "frame",
-          "id": "8RN2N",
-          "name": "arrowFrame",
-          "gap": 12,
-          "alignItems": "center",
-          "children": [
-            {
-              "type": "rectangle",
-              "cornerRadius": 2,
-              "id": "hrsYb",
-              "name": "arrowLine",
-              "fill": {
-                "type": "gradient",
-                "gradientType": "linear",
-                "enabled": true,
-                "rotation": 0,
-                "size": {
-                  "height": 1
-                },
-                "colors": [
-                  {
-                    "color": "#FFFFFF10",
-                    "position": 0
-                  },
-                  {
-                    "color": "#FFFFFF40",
-                    "position": 0.5
-                  },
-                  {
-                    "color": "#FFFFFF10",
-                    "position": 1
-                  }
-                ]
-              },
-              "width": 100,
-              "height": 2
-            },
-            {
-              "type": "path",
-              "id": "85obR",
-              "name": "arrowHead",
-              "geometry": "M0 0l20 15-20 15z",
-              "fill": "#FFFFFF40",
-              "width": 20,
-              "height": 30
-            }
-          ]
+          "fontSize": 18,
+          "fontWeight": "normal"
         }
       ]
     },
@@ -1617,7 +1292,8 @@
               "fill": "#FFFFFFAA",
               "content": "Import .pen design files directly into Figma",
               "fontFamily": "Inter",
-              "fontSize": 20
+              "fontSize": 20,
+              "fontWeight": "normal"
             },
             {
               "type": "frame",
@@ -1656,7 +1332,7 @@
       "type": "frame",
       "id": "igsJj",
       "x": 300,
-      "y": 2508,
+      "y": 2509,
       "name": "Plugin Thumbnail V3 - Retro Illustration",
       "clip": true,
       "width": 1920,
@@ -5096,79 +4772,6 @@
           "fill": "#D4A81FFF",
           "width": 50,
           "height": 120
-        }
-      ]
-    },
-    {
-      "type": "path",
-      "id": "izTPi",
-      "x": 4731,
-      "y": 710,
-      "name": "ptri1",
-      "opacity": 0.9,
-      "rotation": -180,
-      "geometry": "M0 150l75-150 75 150z",
-      "fill": {
-        "type": "gradient",
-        "gradientType": "linear",
-        "enabled": true,
-        "rotation": 180,
-        "size": {
-          "height": 1
-        },
-        "colors": [
-          {
-            "color": "#FFA600FF",
-            "position": 0
-          },
-          {
-            "color": "#FFD900FF",
-            "position": 1
-          }
-        ]
-      },
-      "width": 150,
-      "height": 150
-    },
-    {
-      "type": "frame",
-      "id": "g8spV",
-      "x": 4885,
-      "y": 560,
-      "name": "pencilLogoGroup",
-      "width": 150,
-      "height": 150,
-      "layout": "none",
-      "children": [
-        {
-          "type": "path",
-          "id": "57G22",
-          "x": 0,
-          "y": 0,
-          "name": "ptri2",
-          "opacity": 0.6,
-          "geometry": "M30 150l45-100 45 100z",
-          "fill": {
-            "type": "gradient",
-            "gradientType": "linear",
-            "enabled": true,
-            "rotation": 180,
-            "size": {
-              "height": 1
-            },
-            "colors": [
-              {
-                "color": "#CCCCCCFF",
-                "position": 0
-              },
-              {
-                "color": "#FFFFFFFF",
-                "position": 1
-              }
-            ]
-          },
-          "width": 150,
-          "height": 150
         }
       ]
     }
